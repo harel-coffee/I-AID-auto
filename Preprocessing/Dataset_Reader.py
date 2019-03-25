@@ -67,6 +67,11 @@ if __name__ == "__main__":
     print('Done...')
 
   
+    for index, row in trec_data.iterrows():
+        #row
+        print (row)
+        json_df=pd.DataFrame(row)
+        json_df=json_df[index]
 
         
     

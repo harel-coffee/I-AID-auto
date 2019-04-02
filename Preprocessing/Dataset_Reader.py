@@ -104,10 +104,15 @@ class Dataset_Reader:
         trec_df['full_text'] = None
 
         # convert index type from int64 to str
-        trec_df.index = trec_df.index.map(str)
+        if type(trec_df.index) != type(tweets_df.index):
+            trec_df.index = trec_df.index.map(str)
+
+        print(len(tweets_df), len(trec_df))
+        count = 0
 
         for index, row in tweets_df.iterrows():
             trec_df.loc[index, 'full_text'] = row['full_text']
+            print(row['full_text'])
 
         trec_df.to_csv(path+event_name+'/'+event_name+'_all.csv')
 
@@ -115,7 +120,8 @@ class Dataset_Reader:
 if __name__ == "__main__":
     TREC_Data = Dataset_Reader()
 
-    TREC_Data.load_tweets_events()
+    #TREC_Data.load_tweets_events()
+    TREC_Data.merge_trecData_tweets('Data/TREC_Data/', 'bostonBombings2013')
 '''
     TREC_Data.merge_trecData_tweets('Data/TREC_Data/','australiaBushfire2013')
     TREC_Data.merge_trecData_tweets('Data/TREC_Data/','albertaFloods2013')

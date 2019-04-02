@@ -49,7 +49,6 @@ class Dataset_Reader:
         
 
     def load_tweets_events(self):
-        from secrets import consumer_key, consumer_secret, access_token, access_token_secret
         consumer_key = 'Q7j4eN16sx7NWXfIysgjz4bJv'
         consumer_secret = 'pNgJvYXIEunIPnQPHiYR3HXmCcLOgpffwYKAvHCWjeKpGHGLkI'
         access_token = '53767406-fgupotwM59YIC5UrxAP5yWpE4fDwqhm987T8fI2XP'
@@ -112,7 +111,7 @@ class Dataset_Reader:
 
         for index, row in tweets_df.iterrows():
             trec_df.loc[index, 'full_text'] = row['full_text']
-            print(row['full_text'])
+            #print(row['full_text'])
 
         trec_df.to_csv(path+event_name+'/'+event_name+'_all.csv')
 
@@ -122,6 +121,7 @@ if __name__ == "__main__":
 
     #TREC_Data.load_tweets_events()
     TREC_Data.merge_trecData_tweets('Data/TREC_Data/', 'bostonBombings2013')
+
 '''
     TREC_Data.merge_trecData_tweets('Data/TREC_Data/','australiaBushfire2013')
     TREC_Data.merge_trecData_tweets('Data/TREC_Data/','albertaFloods2013')

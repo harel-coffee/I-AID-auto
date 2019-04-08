@@ -49,7 +49,6 @@ class Dataset_Reader:
         
 
     def load_tweets_events(self):
-        
         consumer_key = 'Q7j4eN16sx7NWXfIysgjz4bJv'
         consumer_secret = 'pNgJvYXIEunIPnQPHiYR3HXmCcLOgpffwYKAvHCWjeKpGHGLkI'
         access_token = '53767406-fgupotwM59YIC5UrxAP5yWpE4fDwqhm987T8fI2XP'
@@ -95,7 +94,9 @@ class Dataset_Reader:
             json_df.to_csv(path2+file[:-4]+'csv', header=True, index=False)
 
     def merge_trecData_tweets(self, path, event_name):
-        tweets_path = path+event_name+'/'+event_name+'_tweets.csv'
+        #tweets_path = path+event_name+'/'+event_name+'_tweets.csv'
+
+        tweets_path = path+event_name+'/trecis2018-test.'+event_name+'.csv' # to load tweets retrieved by TREC-Downloader.jar
         trec_path = path+event_name+'/'+event_name+'.csv'
 
         tweets_df = pd.read_csv(tweets_path, header=0, index_col='tweet_id',engine='python')
@@ -105,25 +106,28 @@ class Dataset_Reader:
         trec_df['full_text'] = None
 
         # convert index type from int64 to str
-        print (type(trec_df.index), type(tweets_df.index))
-        if (type(trec_df.index)!=type(tweets_df.index)): 
-            
+        if type(trec_df.index) != type(tweets_df.index):
             trec_df.index = trec_df.index.map(str)
 
+        print(len(tweets_df), len(trec_df))
+        count = 0
+        '''
         for index, row in tweets_df.iterrows():
             trec_df.loc[index, 'full_text'] = row['full_text']
+            #print(row['full_text'])
 
         trec_df.to_csv(path+event_name+'/'+event_name+'_all.csv')
-
+        '''
 
 if __name__ == "__main__":
     TREC_Data = Dataset_Reader()
 
     #TREC_Data.load_tweets_events()
+    TREC_Data.merge_trecData_tweets('Data/TREC_Data/', 'bostonBombings2013')
+
 
     TREC_Data.merge_trecData_tweets('Data/TREC_Data/','australiaBushfire2013')
 
-'''
     
     TREC_Data.merge_trecData_tweets('Data/TREC_Data/','albertaFloods2013')
     
@@ -141,7 +145,6 @@ if __name__ == "__main__":
     
     TREC_Data.merge_trecData_tweets('Data/TREC_Data/','typhoonHagupit2014')
     TREC_Data.merge_trecData_tweets('Data/TREC_Data/','typhoonYolanda2013')
-'''
 
 
 

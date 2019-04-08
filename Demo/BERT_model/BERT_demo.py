@@ -100,6 +100,6 @@ if __name__ == "__main__":
 
     data_processed = list(map(process_text, data))
 
-    print (semantic_search("I am close to Taj Mahal in Agra", data_processed,bc))
+    print (semantic_search("Tell me about yourself", data_processed,bc))
 
 

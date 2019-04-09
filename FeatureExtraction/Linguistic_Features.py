@@ -50,23 +50,23 @@ if __name__ == "__main__":
     events_names = ['albertaFloods2013', 'australiaBushfire2013', 'bostonBombings2013', 'chileEarthquake2014', 'flSchoolShooting2018',
                     'guatemalaEarthquake2012', 'italyEarthquakes2012', 'joplinTornado2011', 'manilaFloods2013', 'nepalEarthquake2015', 'parisAttacks2015', 'philipinnesFloods2012', 'queenslandFloods2013', 'typhoonHagupit2014', 'typhoonYolanda2013']
 
-
-
-    #compute TF-IDF features:
+    # compute TF-IDF features:
     ling_feat = Linguistic_Features()
-    
+
     for event in events_names:
-        event_tweets_path=events_path+event+'/'+event+'_tweets.csv'
+        event_tweets_path = events_path+event+'/'+event+'_tweets.csv'
 
         try:
-            event_tweets_df=pd.read_csv(event_tweets_path)
+            event_tweets_df = pd.read_csv(event_tweets_path)
         except:
-            event_tweets_df=pd.read_csv(open(event_tweets_path,'rU'), encoding='utf-8', engine='c')
-
+            event_tweets_df = pd.read_csv(
+                open(event_tweets_path, 'rU'), encoding='utf-8', engine='c')
 
         # drop rows with null values if any
         event_tweets_df.dropna(inplace=True)
 
-        event_TFIDF_feat=ling_feat.tfIdf_feature(event_tweets_df,20) # save to 20 TF-IDF features
+        event_TFIDF_feat = ling_feat.tfIdf_feature(
+            event_tweets_df, 20)  # save to 20 TF-IDF features
 
-        event_TFIDF_feat.to_csv(events_path+event+'/features/'+event+'_tfidf.csv',index=False)
+        event_TFIDF_feat.to_csv(
+            events_path+event+'/features/'+event+'_tfidf.csv', index=False)

@@ -108,12 +108,6 @@ class Dataset_Reader:
         # convert index type from int64 to str
         if type(trec_df.index) != type(tweets_df.index):
             trec_df.index = trec_df.index.map(str)
-<<<<<<< HEAD
-=======
-
-        print(len(tweets_df), len(trec_df))
-        count = 0
->>>>>>> a921384045abebe38cc85d2f2ddf313e5ac4da14
 
         print(len(tweets_df), len(trec_df))
         count = 0
@@ -131,11 +125,6 @@ if __name__ == "__main__":
     #TREC_Data.load_tweets_events()
     TREC_Data.merge_trecData_tweets('Data/TREC_Data/', 'bostonBombings2013')
 
-<<<<<<< HEAD
-
-=======
-'''
->>>>>>> a921384045abebe38cc85d2f2ddf313e5ac4da14
     TREC_Data.merge_trecData_tweets('Data/TREC_Data/','australiaBushfire2013')
 
     

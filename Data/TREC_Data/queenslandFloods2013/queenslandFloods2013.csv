@@ -1,0 +1,714 @@
+categories,indicatorTerms,postID,priority,timestamp
+"['EmergingThreats', 'Official', 'Hashtags', 'ContinuingNews']",[],295163796685717504,Critical,2018-09-13 16:15:07
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295456835916398592,Medium,2018-09-13 17:22:37
+"['ThirdPartyObservation', 'Advice']",[],298313161151488000,Medium,2018-09-17 17:13:05
+"['ThirdPartyObservation', 'SignificantEventChange', 'Official', 'Hashtags', 'ContinuingNews']",[],296380157403463680,High,2018-09-14 18:55:33
+"['Official', 'Hashtags', 'ContinuingNews']",[],297864009913360384,Medium,2018-09-17 17:09:10
+"['ServiceAvailable', 'Hashtags', 'ContinuingNews']",[],295750244237447168,Medium,2018-09-13 19:33:08
+['KnownAlready'],[],295691494629711872,Low,2018-09-13 18:56:22
+['Hashtags'],[],295984571625918464,Low,2018-09-14 16:36:32
+['Sentiment'],[],294318355005968384,Low,2018-09-12 18:49:41
+"['Hashtags', 'Sentiment']",[],295350711628230656,Low,2018-09-13 16:30:43
+"['Sentiment', 'Irrelevant']",[],296019870909353984,Low,2018-09-14 16:43:35
+"['Official', 'Hashtags', 'ContinuingNews']",[],295831487931105280,High,2018-09-14 16:02:52
+['ContinuingNews'],[],296003919975424000,Low,2018-09-14 16:41:09
+"['ThirdPartyObservation', 'SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],296407927907041280,High,2018-09-17 15:48:27
+"['Factoid', 'Advice']",[],295756598637367296,Low,2018-09-13 19:38:59
+['Unknown'],[],295850836255469568,Low,2018-09-14 16:07:49
+"['Official', 'ContinuingNews', 'Advice']",[],295487290761957376,Medium,2018-09-13 18:00:43
+"['Factoid', 'Hashtags', 'PastNews', 'Irrelevant']",[],296239358808309760,Low,2018-09-14 18:44:01
+"['ThirdPartyObservation', 'EmergingThreats', 'MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295598964097576960,High,2018-09-13 18:26:41
+"['SignificantEventChange', 'MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295709433688907776,High,2018-09-13 19:09:45
+"['ThirdPartyObservation', 'MultimediaShare', 'Hashtags']",[],295431955313467392,Medium,2018-09-13 17:00:32
+"['Sentiment', 'Irrelevant']",[],295695969964658688,Low,2018-09-13 19:00:45
+"['Official', 'Hashtags', 'ContinuingNews']",[],295019986576084992,Medium,2018-09-12 19:25:05
+"['Hashtags', 'Sentiment']",[],295710893306683392,Low,2018-09-13 19:09:58
+"['MultimediaShare', 'Hashtags', 'Sentiment', 'Irrelevant']",[],295867311460585472,Low,2018-09-14 16:21:32
+"['Sentiment', 'Irrelevant']",[],296432540066140160,Low,2018-09-17 15:51:26
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295444420763996160,Medium,2018-09-13 17:19:20
+"['Advice', 'Irrelevant']",[],296189526282485760,Low,2018-09-14 18:33:02
+"['Weather', 'Factoid', 'Hashtags', 'ContinuingNews']",[],295535651091267584,Medium,2018-09-13 18:20:30
+"['ServiceAvailable', 'Hashtags', 'ContinuingNews']",[],296081900446031872,Medium,2018-09-14 17:29:54
+"['Hashtags', 'ContinuingNews', 'Advice']",[],295751146042191872,Medium,2018-09-13 19:33:51
+"['MultimediaShare', 'Hashtags']",[],295791503635271680,Low,2018-09-14 15:41:57
+"['SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],296108127441526784,High,2018-09-14 17:44:43
+"['Factoid', 'Hashtags', 'ContinuingNews']",[],295409297683279872,Low,2018-09-13 16:47:07
+"['MultimediaShare', 'Advice']",[],296199684903538688,Medium,2018-09-14 18:35:57
+"['ThirdPartyObservation', 'EmergingThreats', 'Hashtags', 'ContinuingNews']",[],295617955906072576,High,2018-09-13 18:29:01
+"['ThirdPartyObservation', 'Hashtags', 'ContinuingNews', 'Advice']",[],295364376679047168,Low,2018-09-13 16:34:36
+"['MultimediaShare', 'ContinuingNews']",[],295411759714562048,Medium,2018-09-13 16:51:53
+"['MultimediaShare', 'Hashtags', 'Sentiment', 'Irrelevant']",[],296754062857228288,Low,2018-09-17 16:21:34
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],297299506888835072,Low,2018-09-17 17:00:05
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295812244439171072,Low,2018-09-14 15:50:35
+"['SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],295415245181161472,High,2018-09-13 16:52:27
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295308487565664256,Medium,2018-09-13 16:24:26
+"['CleanUp', 'ContinuingNews']",[],296535896096911360,Low,2018-09-17 16:13:25
+"['Hashtags', 'Sentiment']",[],295884822675599360,Low,2018-09-14 16:30:15
+"['SignificantEventChange', 'MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295688655106887680,High,2018-09-13 18:54:25
+"['Factoid', 'ContinuingNews']",[],296099508134215680,Low,2018-09-14 17:39:55
+"['Discussion', 'Irrelevant']",[],296772240949800960,Low,2018-09-17 16:21:46
+"['Donations', 'ThirdPartyObservation', 'Hashtags', 'Irrelevant']",[],296236150182535168,Low,2018-09-14 18:43:09
+"['Sentiment', 'Irrelevant']",[],295758993576562688,Low,2018-09-14 15:16:53
+"['PastNews', 'Irrelevant']",[],296237261685673984,Low,2018-09-14 18:43:23
+"['Sentiment', 'Irrelevant']",[],294872292545155072,Low,2018-09-12 19:06:31
+"['ThirdPartyObservation', 'Sentiment', 'Irrelevant']",[],295737065759453184,Low,2018-09-13 19:17:57
+"['Hashtags', 'ContinuingNews', 'Sentiment']",[],295439509229801472,Low,2018-09-13 17:06:10
+"['ThirdPartyObservation', 'Hashtags', 'ContinuingNews', 'Advice']",[],295584598589591552,Medium,2018-09-13 18:24:11
+"['Factoid', 'PastNews', 'Irrelevant']",[],296248775016595456,Low,2018-09-14 18:44:46
+"['ThirdPartyObservation', 'MultimediaShare', 'Hashtags', 'Advice']",[],297151141790244864,Medium,2018-09-17 16:56:30
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295692971041513472,Medium,2018-09-13 18:58:22
+"['SignificantEventChange', 'Official', 'ContinuingNews']",[],295479883608514560,High,2018-09-13 17:31:14
+"['Weather', 'Factoid', 'ContinuingNews']",[],293237197652520960,Low,2018-09-12 18:41:31
+"['SignificantEventChange', 'Official', 'Hashtags', 'ContinuingNews']",[],295020468925239296,High,2018-09-12 19:25:26
+"['Hashtags', 'KnownAlready']",[],295703184154959872,Low,2018-09-13 19:05:03
+"['ThirdPartyObservation', 'MultimediaShare', 'Hashtags']",[],297096016044359680,Low,2018-09-17 16:39:20
+"['MultimediaShare', 'Hashtags', 'Sentiment']",[],295701326103457792,Medium,2018-09-13 19:02:40
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],296056696885882880,Medium,2018-09-14 16:53:56
+"['Hashtags', 'Sentiment']",[],295656140845502464,Low,2018-09-13 18:46:47
+"['Factoid', 'Hashtags', 'PastNews', 'Irrelevant']",[],296247713882853376,Low,2018-09-14 18:44:14
+"['EmergingThreats', 'ContinuingNews']",[],293965794398859264,High,2018-09-12 18:46:36
+"['Hashtags', 'PastNews', 'Irrelevant']",[],296264700797259776,Low,2018-09-14 18:47:25
+"['EmergingThreats', 'Hashtags', 'ContinuingNews']",[],296115220009603072,High,2018-09-14 17:47:25
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],296090280657047552,Low,2018-09-14 17:35:54
+"['Sentiment', 'Irrelevant']",[],295769412244488192,Low,2018-09-14 15:28:53
+"['Factoid', 'Official', 'Hashtags', 'ContinuingNews']",[],295505082991132672,Medium,2018-09-13 18:14:50
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],296262976955092992,Medium,2018-09-14 18:46:58
+"['Weather', 'SignificantEventChange', 'Official', 'Hashtags', 'ContinuingNews']",[],295379857859305472,High,2018-09-13 16:38:10
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295455401447669760,Low,2018-09-13 17:22:20
+"['MultimediaShare', 'ContinuingNews']",[],296172052812017664,Medium,2018-09-14 18:08:13
+"['SignificantEventChange', 'MultimediaShare', 'Hashtags', 'ContinuingNews']",[],296149839811575808,High,2018-09-14 18:04:56
+"['Factoid', 'Hashtags', 'ContinuingNews']",[],296085503378350080,High,2018-09-14 17:33:28
+"['MultimediaShare', 'Hashtags']",[],296390274085703680,Medium,2018-09-14 18:58:50
+"['ThirdPartyObservation', 'Hashtags', 'PastNews', 'Irrelevant']",[],296112078480109568,Low,2018-09-14 17:47:04
+"['MultimediaShare', 'ContinuingNews']",[],296143556727435264,Medium,2018-09-14 18:02:17
+"['ThirdPartyObservation', 'Factoid', 'Hashtags', 'ContinuingNews']",[],295775015809449984,Medium,2018-09-14 15:34:44
+"['Hashtags', 'Advice']",[],295019969798868992,Medium,2018-09-12 19:24:33
+"['Factoid', 'ContinuingNews']",[],297428813099450368,Low,2018-09-17 17:02:50
+"['Official', 'Hashtags', 'ContinuingNews']",[],295745668264382464,High,2018-09-13 19:22:53
+"['ThirdPartyObservation', 'Hashtags', 'Advice']",[],296685565674418176,Medium,2018-09-17 16:18:31
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295312237269237760,High,2018-09-13 16:25:47
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],297433858851352576,Medium,2018-09-17 17:03:06
+"['Official', 'Hashtags', 'ContinuingNews']",[],295120154956820480,High,2018-09-13 16:02:27
+"['SignificantEventChange', 'Factoid', 'Hashtags', 'ContinuingNews']",[],295424011297488896,High,2018-09-13 16:55:14
+"['Hashtags', 'ContinuingNews', 'Discussion']",[],295692270601113600,Low,2018-09-13 18:57:22
+"['Hashtags', 'ContinuingNews', 'Sentiment']",[],295553250395045888,Low,2018-09-13 18:20:45
+"['Discussion', 'Irrelevant']",[],296883322905317376,Low,2018-09-17 16:30:05
+"['Hashtags', 'PastNews']",[],296065391694839808,Low,2018-09-14 17:15:49
+"['ContinuingNews', 'Irrelevant']",[],296631933100769280,Low,2018-09-17 16:16:45
+"['Sentiment', 'Irrelevant']",[],296056499749408768,Low,2018-09-14 16:53:39
+"['Hashtags', 'Advice']",[],296040611746824192,Medium,2018-09-14 16:50:20
+"['MultimediaShare', 'Hashtags', 'KnownAlready']",[],295813158831026176,Low,2018-09-14 15:53:26
+"['ThirdPartyObservation', 'MultimediaShare', 'Hashtags', 'Advice']",[],295852413322145792,Low,2018-09-14 16:08:13
+"['MultimediaShare', 'Sentiment', 'Irrelevant']",[],296052393538379776,Low,2018-09-14 16:51:46
+"['SignificantEventChange', 'Hashtags', 'ContinuingNews', 'Advice']",[],295699161830023168,High,2018-09-13 19:01:27
+"['SignificantEventChange', 'MultimediaShare', 'Official', 'ContinuingNews']",[],294673100845490176,High,2018-09-12 18:58:09
+"['EmergingThreats', 'Hashtags', 'ContinuingNews']",[],295058347676274688,Critical,2018-09-12 19:28:09
+"['ContinuingNews', 'Advice']",[],295691150713569280,Medium,2018-09-13 18:55:34
+"['Hashtags', 'Advice', 'KnownAlready']",[],295731483128246272,Low,2018-09-13 19:16:33
+"['ServiceAvailable', 'Advice']",[],298618057666998272,Medium,2018-09-17 17:14:39
+"['Hashtags', 'Sentiment']",[],295800819180261376,Low,2018-09-14 15:47:20
+"['EmergingThreats', 'Factoid', 'Hashtags', 'ContinuingNews']",[],296116331495960576,High,2018-09-14 17:48:35
+['PastNews'],[],296192747503767552,Low,2018-09-14 18:34:37
+"['ThirdPartyObservation', 'Sentiment', 'Irrelevant']",[],296795217355472896,Low,2018-09-17 16:23:01
+['ContinuingNews'],[],293186081652871168,Low,2018-09-12 18:41:07
+"['MultimediaShare', 'Hashtags']",[],296019220767051776,Low,2018-09-14 16:43:23
+"['Discussion', 'Irrelevant']",[],296036442591883264,Low,2018-09-14 16:49:06
+"['Sentiment', 'Irrelevant']",[],297836172305125376,Low,2018-09-17 17:08:43
+"['SignificantEventChange', 'Official', 'Hashtags', 'ContinuingNews']",[],295769764561817600,High,2018-09-14 15:29:11
+"['ThirdPartyObservation', 'SignificantEventChange', 'MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295844821615116288,High,2018-09-14 16:05:29
+"['Hashtags', 'ContinuingNews', 'Advice']",[],295503757607858176,Low,2018-09-13 18:09:50
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],298341430756265984,Low,2018-09-17 17:13:40
+"['ThirdPartyObservation', 'Official', 'Hashtags', 'Advice']",[],295474997231751168,High,2018-09-13 17:29:02
+"['Hashtags', 'Sentiment']",[],295447193190535168,Low,2018-09-13 17:20:33
+"['ThirdPartyObservation', 'Hashtags', 'Irrelevant']",[],296608419824164864,Low,2018-09-17 16:16:13
+['Unknown'],[],296408888385867776,Low,2018-09-17 15:49:08
+"['Official', 'Hashtags', 'ContinuingNews', 'Advice']",[],295355887420309504,Medium,2018-09-13 16:31:24
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295403480154243072,Medium,2018-09-13 16:45:04
+"['Sentiment', 'Irrelevant']",[],295717415453609984,Low,2018-09-13 19:11:35
+"['EmergingThreats', 'Hashtags', 'ContinuingNews']",[],295040974848159744,High,2018-09-12 19:27:11
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295802475930333184,Low,2018-09-14 15:47:36
+"['Hashtags', 'ContinuingNews', 'Advice']",[],295772897685929984,Low,2018-09-14 15:32:37
+"['ThirdPartyObservation', 'MultimediaShare', 'Hashtags', 'Irrelevant']",[],296092658839994368,Low,2018-09-14 17:36:26
+"['MultimediaShare', 'Hashtags']",[],296207368847499264,Low,2018-09-14 18:37:55
+"['Official', 'Advice']",[],295820335285166080,Medium,2018-09-14 15:57:44
+"['MultimediaShare', 'Factoid', 'ContinuingNews']",[],295805172846821376,Medium,2018-09-14 15:48:41
+"['Factoid', 'Official', 'Hashtags', 'ContinuingNews']",[],298204356677890048,High,2018-09-17 17:11:50
+"['Factoid', 'Hashtags', 'Sentiment', 'Irrelevant']",[],297134637212372992,Medium,2018-09-17 16:55:15
+"['SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],295472887509417984,High,2018-09-13 17:26:31
+"['ContinuingNews', 'Irrelevant']",[],296742583026216960,Low,2018-09-17 16:20:18
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],294225799316373504,Medium,2018-09-12 18:49:05
+"['MultimediaShare', 'KnownAlready']",[],295784121651834880,Low,2018-09-14 15:39:13
+"['MultimediaShare', 'Hashtags', 'Advice']",[],295774319575961600,Medium,2018-09-14 15:33:09
+"['MultimediaShare', 'Hashtags', 'Irrelevant']",[],295500930638569472,Low,2018-09-13 18:09:22
+"['MovePeople', 'MultimediaShare', 'ContinuingNews']",[],296140272579014656,Medium,2018-09-14 17:52:36
+"['ContinuingNews', 'Advice']",[],294675231556124672,Medium,2018-09-12 18:59:43
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],296812128797605888,Low,2018-09-17 16:23:59
+"['MultimediaShare', 'ContinuingNews']",[],295648612057227264,Low,2018-09-13 18:44:22
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295139872346345472,Medium,2018-09-13 16:13:30
+"['Hashtags', 'ContinuingNews', 'Advice']",[],294677202899968000,Medium,2018-09-12 19:01:18
+"['SignificantEventChange', 'MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295647806755045376,High,2018-09-13 18:43:50
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295716152963899392,Medium,2018-09-13 19:11:04
+"['MultimediaShare', 'Irrelevant']",[],295898068325371904,Low,2018-09-14 16:31:18
+"['ThirdPartyObservation', 'Hashtags', 'Advice', 'Irrelevant']",[],297106476630155264,Medium,2018-09-17 16:54:01
+"['MultimediaShare', 'ContinuingNews']",[],296454698574163968,Medium,2018-09-17 15:54:17
+"['Hashtags', 'ContinuingNews', 'Advice']",[],295471356580073472,Medium,2018-09-13 17:25:08
+"['ServiceAvailable', 'Hashtags', 'ContinuingNews']",[],295558723965960192,High,2018-09-13 18:21:03
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],297997619442098176,Low,2018-09-17 17:10:16
+"['Hashtags', 'ContinuingNews', 'Advice']",[],295005935670280192,Medium,2018-09-12 19:16:04
+"['Weather', 'ContinuingNews']",[],296314533323083776,Low,2018-09-14 18:48:57
+"['Hashtags', 'Sentiment']",[],295753616495616000,Low,2018-09-13 19:38:14
+"['ThirdPartyObservation', 'Official', 'Hashtags', 'ContinuingNews']",[],297242577613250560,High,2018-09-17 16:58:26
+"['MultimediaShare', 'Factoid', 'KnownAlready']",[],295738449888157696,Low,2018-09-13 19:18:45
+"['Weather', 'EmergingThreats', 'ContinuingNews']",[],293846957166833664,High,2018-09-12 18:44:45
+"['Hashtags', 'Sentiment']",[],295436086677733376,Low,2018-09-13 17:03:54
+"['MultimediaShare', 'CleanUp', 'Hashtags', 'ContinuingNews']",[],297884494873108480,Low,2018-09-17 17:09:59
+"['Irrelevant', 'Unknown']",[],296067899850903552,Low,2018-09-14 17:17:20
+"['Sentiment', 'Irrelevant']",[],296002955251945472,Low,2018-09-14 16:39:49
+"['MultimediaShare', 'Official', 'Hashtags', 'ContinuingNews']",[],297677816357597184,Medium,2018-09-17 17:07:38
+"['Hashtags', 'Irrelevant']",[],295130586153095168,Low,2018-09-13 16:12:46
+"['Weather', 'Factoid', 'ContinuingNews', 'Advice']",[],295369267216527360,Medium,2018-09-13 16:36:02
+"['Sentiment', 'Irrelevant']",[],294626745422864384,Low,2018-09-12 18:55:34
+"['SignificantEventChange', 'Official', 'Hashtags', 'ContinuingNews']",[],295247082955083776,Critical,2018-09-13 16:21:07
+"['ThirdPartyObservation', 'SignificantEventChange', 'Hashtags']",[],296055124021874688,Medium,2018-09-14 16:52:37
+"['SignificantEventChange', 'MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295812462547193856,High,2018-09-14 15:51:40
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],296086459662888960,Low,2018-09-14 17:34:04
+"['SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],293904771461562368,High,2018-09-12 18:45:11
+"['ThirdPartyObservation', 'Hashtags', 'ContinuingNews']",[],295721353900871680,Medium,2018-09-13 19:14:13
+"['ThirdPartyObservation', 'SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],296253212598620160,High,2018-09-14 18:45:24
+"['Hashtags', 'Irrelevant']",[],295780850094718976,Low,2018-09-14 15:35:53
+"['Sentiment', 'Irrelevant']",[],295412070088839168,Low,2018-09-13 16:52:10
+"['ThirdPartyObservation', 'ContinuingNews', 'Advice']",[],295534501831008256,Low,2018-09-13 18:19:58
+"['Hashtags', 'PastNews', 'Irrelevant']",[],296071582466584576,Low,2018-09-14 17:23:54
+"['Factoid', 'Hashtags', 'Discussion']",[],295425693205008384,Low,2018-09-13 16:56:04
+"['Advice', 'Irrelevant']",[],297086625014505472,Low,2018-09-17 16:38:14
+"['Weather', 'Official', 'Hashtags', 'ContinuingNews']",[],295076387386191872,Medium,2018-09-13 15:55:17
+"['EmergingThreats', 'Hashtags', 'ContinuingNews']",[],294888574833270784,Critical,2018-09-12 19:07:24
+"['InformationWanted', 'ThirdPartyObservation', 'MultimediaShare', 'Hashtags']",[],296529797608251392,Medium,2018-09-17 16:12:49
+"['CleanUp', 'Hashtags', 'PastNews']",[],296118856487936000,Low,2018-09-14 17:50:20
+"['SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],295369619538067456,High,2018-09-13 16:36:48
+"['Donations', 'Hashtags']",[],295450062094475264,Low,2018-09-13 17:21:43
+"['EmergingThreats', 'ContinuingNews']",[],294998411080507392,Critical,2018-09-12 19:14:19
+"['Hashtags', 'ContinuingNews']",[],295677397582376960,High,2018-09-13 18:52:13
+"['SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],295793122632421376,High,2018-09-14 15:42:49
+"['EmergingThreats', 'Hashtags', 'ContinuingNews']",[],295744682611318784,High,2018-09-13 19:21:05
+"['Hashtags', 'Irrelevant']",[],295761266889351168,Low,2018-09-14 15:19:06
+"['Discussion', 'Irrelevant']",[],295480454025465856,Low,2018-09-13 17:31:27
+"['Official', 'Hashtags', 'ContinuingNews']",[],296118118265262080,Medium,2018-09-14 17:49:56
+"['MultimediaShare', 'PastNews']",[],296108551070416896,Medium,2018-09-14 17:45:09
+"['MultimediaShare', 'ContinuingNews']",[],295635609748381696,Medium,2018-09-13 18:31:38
+"['Factoid', 'KnownAlready']",[],295792170525405184,Low,2018-09-14 15:42:23
+['ContinuingNews'],[],296412084445511680,Low,2018-09-17 15:50:20
+"['Sentiment', 'Irrelevant']",[],294981885501796352,Low,2018-09-12 19:13:41
+"['Sentiment', 'Irrelevant']",[],295798990438551552,Low,2018-09-14 15:46:45
+"['Sentiment', 'Irrelevant']",[],296297642865070080,Low,2018-09-14 18:48:15
+"['Official', 'Hashtags', 'Advice']",[],295688445395886080,High,2018-09-13 18:53:56
+"['Hashtags', 'Advice']",[],295880695514005504,Low,2018-09-14 16:29:32
+"['CleanUp', 'ContinuingNews']",[],296552539103571968,Medium,2018-09-17 16:13:53
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295665531908919296,Low,2018-09-13 18:48:58
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295050860843651072,Medium,2018-09-12 19:27:52
+"['Official', 'Hashtags', 'ContinuingNews', 'Advice']",[],295310098195173376,Low,2018-09-13 16:24:40
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295707424596299776,Medium,2018-09-13 19:08:39
+"['Weather', 'MultimediaShare', 'Official', 'Hashtags', 'ContinuingNews']",[],295123149656297472,Medium,2018-09-13 16:12:01
+"['MultimediaShare', 'ContinuingNews']",[],295525060477870080,Low,2018-09-13 18:18:51
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295430566990454784,Low,2018-09-13 16:59:01
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295625082020196352,Low,2018-09-13 18:29:54
+"['SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],294405693010755584,High,2018-09-12 18:51:41
+"['SignificantEventChange', 'MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295294411494002688,High,2018-09-13 16:23:37
+"['MultimediaShare', 'Hashtags', 'Irrelevant']",[],296205217194704896,Low,2018-09-14 18:37:27
+"['MultimediaShare', 'ContinuingNews']",[],295466944172265472,Medium,2018-09-13 17:24:39
+"['EmergingThreats', 'Official', 'ContinuingNews']",[],297144766460723200,High,2018-09-17 16:55:40
+"['ThirdPartyObservation', 'SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],296148417904787456,High,2018-09-14 18:04:33
+"['Factoid', 'Official', 'Hashtags', 'ContinuingNews']",[],295691788235190272,Medium,2018-09-13 18:57:00
+['Irrelevant'],[],295494077133238272,Low,2018-09-13 18:08:47
+"['MultimediaShare', 'ContinuingNews']",[],295982407356674048,Medium,2018-09-14 16:35:59
+"['ContinuingNews', 'Advice']",[],293803277689180160,Low,2018-09-12 18:43:13
+['Hashtags'],[],295402234454360064,Low,2018-09-13 16:44:32
+"['MultimediaShare', 'PastNews', 'Irrelevant']",[],295828652577394688,Low,2018-09-14 16:01:18
+"['MultimediaShare', 'Hashtags', 'KnownAlready']",[],295784322982637568,Low,2018-09-14 15:39:45
+"['MovePeople', 'Official', 'Hashtags', 'ContinuingNews']",[],295692690023137280,High,2018-09-13 18:57:57
+"['Sentiment', 'Irrelevant']",[],296034974572871680,Low,2018-09-14 16:48:53
+['ContinuingNews'],[],295506567770562560,Low,2018-09-13 18:15:16
+"['Sentiment', 'Irrelevant']",[],295871304458969088,Low,2018-09-14 16:21:59
+"['Hashtags', 'ContinuingNews']",[],295661283049623552,Medium,2018-09-13 18:48:29
+"['ThirdPartyObservation', 'Hashtags', 'ContinuingNews']",[],295479787126915072,Medium,2018-09-13 17:30:46
+"['Hashtags', 'ContinuingNews']",[],296492808020299776,Low,2018-09-17 16:03:42
+"['ThirdPartyObservation', 'EmergingThreats', 'Hashtags', 'ContinuingNews']",[],294765144850984960,Critical,2018-09-12 19:04:00
+"['InformationWanted', 'Hashtags']",[],295904691127209984,Medium,2018-09-14 16:31:52
+"['Official', 'ContinuingNews', 'Advice']",[],295489895407960064,Low,2018-09-13 18:02:33
+"['MultimediaShare', 'Sentiment', 'Irrelevant']",[],296432594621431808,Low,2018-09-17 15:51:56
+"['SignificantEventChange', 'MultimediaShare', 'Hashtags', 'ContinuingNews']",[],296425892115267584,High,2018-09-17 15:51:03
+"['EmergingThreats', 'MultimediaShare', 'Hashtags', 'ContinuingNews']",[],296108676912136192,High,2018-09-14 17:45:30
+"['MultimediaShare', 'Hashtags', 'Advice']",[],296057766416613376,Medium,2018-09-14 16:55:02
+['Unknown'],[],296121570177449984,Low,2018-09-14 17:50:43
+"['MultimediaShare', 'PastNews']",[],295841675891339264,Low,2018-09-14 16:04:38
+"['Hashtags', 'Unknown']",[],295442847916777472,Low,2018-09-13 17:18:06
+"['Discussion', 'Irrelevant']",[],295530815054548992,Low,2018-09-13 18:19:14
+"['MultimediaShare', 'Hashtags']",[],295703507107999744,Low,2018-09-13 19:05:28
+"['MultimediaShare', 'ContinuingNews', 'Advice']",[],295409385772044288,Medium,2018-09-13 16:50:27
+"['SignificantEventChange', 'Official', 'Hashtags', 'ContinuingNews']",[],295233594073444352,High,2018-09-13 16:20:39
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295284248699621376,Medium,2018-09-13 16:22:49
+['Irrelevant'],[],295094800355586048,Low,2018-09-13 16:01:30
+"['Official', 'CleanUp', 'ContinuingNews']",[],297467400717217792,Low,2018-09-17 17:03:50
+"['MultimediaShare', 'Hashtags']",[],295670170788179968,Low,2018-09-13 18:49:54
+"['CleanUp', 'Hashtags', 'ContinuingNews']",[],296117916938670080,Medium,2018-09-14 17:49:22
+['ContinuingNews'],[],296152033415811072,Low,2018-09-14 18:06:05
+"['Sentiment', 'Irrelevant']",[],296442681893216256,Low,2018-09-17 15:53:36
+"['Hashtags', 'ContinuingNews', 'Advice']",[],295436241892171776,Medium,2018-09-13 17:04:33
+"['PastNews', 'Irrelevant']",[],296145754542718976,Low,2018-09-14 18:03:31
+"['SignificantEventChange', 'MultimediaShare', 'ContinuingNews']",[],294218337645367296,Medium,2018-09-12 18:48:11
+"['SignificantEventChange', 'MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295693944132624384,High,2018-09-13 19:00:06
+"['SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],294366161687150592,High,2018-09-12 18:50:43
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295961213555318784,Low,2018-09-14 16:35:12
+"['Hashtags', 'ContinuingNews']",[],295411029914046464,Low,2018-09-13 16:50:50
+"['MovePeople', 'MultimediaShare', 'Hashtags']",[],296056986305458176,Medium,2018-09-14 16:54:47
+"['Hashtags', 'ContinuingNews', 'Advice']",[],295628391342800896,High,2018-09-13 18:30:27
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295821572596449280,Low,2018-09-14 15:59:14
+"['ServiceAvailable', 'Hashtags', 'ContinuingNews']",[],295798990463713280,Medium,2018-09-14 15:47:09
+"['Volunteer', 'ThirdPartyObservation', 'Advice']",[],296083901133254656,Medium,2018-09-14 17:33:00
+"['Hashtags', 'ContinuingNews']",[],295491917091840000,Low,2018-09-13 18:05:53
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295703762989875200,Medium,2018-09-13 19:05:51
+['ContinuingNews'],[],296356124070928384,Low,2018-09-14 18:50:52
+"['ThirdPartyObservation', 'ServiceAvailable', 'Hashtags', 'ContinuingNews']",[],295513568051339264,High,2018-09-13 18:17:24
+"['ThirdPartyObservation', 'MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295074235691442176,Low,2018-09-13 15:53:11
+"['Official', 'ContinuingNews']",[],295479212540837888,Low,2018-09-13 17:30:32
+['ContinuingNews'],[],296182224003407872,Low,2018-09-14 18:09:17
+"['MultimediaShare', 'CleanUp', 'Hashtags', 'Advice']",[],296025919095721984,High,2018-09-14 16:47:05
+"['Hashtags', 'ContinuingNews']",[],295073547825577984,Low,2018-09-13 15:52:44
+"['Donations', 'Hashtags', 'Advice', 'Discussion', 'Irrelevant']",[],297693561779003392,Low,2018-09-17 17:08:30
+"['ThirdPartyObservation', 'MultimediaShare', 'Advice']",[],296459274572410880,Medium,2018-09-17 15:56:30
+"['SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],296372330844803072,High,2018-09-14 18:52:48
+"['Sentiment', 'Irrelevant']",[],298311265317707776,Low,2018-09-17 17:12:39
+"['Hashtags', 'ContinuingNews']",[],295941278032617472,Low,2018-09-14 16:34:10
+"['ThirdPartyObservation', 'Factoid', 'Hashtags', 'ContinuingNews']",[],295660146405826560,Medium,2018-09-13 18:47:50
+"['Donations', 'Advice']",[],296472562144276480,Low,2018-09-17 15:59:18
+"['ThirdPartyObservation', 'SignificantEventChange', 'MultimediaShare', 'Hashtags', 'ContinuingNews']",[],296371022217744384,High,2018-09-14 18:51:16
+"['Hashtags', 'Advice', 'Irrelevant']",[],296212678848954368,Low,2018-09-14 18:40:06
+"['ThirdPartyObservation', 'Sentiment', 'Irrelevant']",[],295879323959844864,Low,2018-09-14 16:24:58
+"['Sentiment', 'Irrelevant']",[],295667620672335872,Low,2018-09-13 18:49:15
+"['Sentiment', 'Irrelevant']",[],295749694812991488,Low,2018-09-13 19:32:30
+"['ThirdPartyObservation', 'Hashtags', 'Irrelevant']",[],296559522640711680,Low,2018-09-17 16:15:47
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295827507549200384,Low,2018-09-14 16:00:57
+"['PastNews', 'Irrelevant']",[],296162330415337472,Low,2018-09-14 18:06:35
+"['InformationWanted', 'ContinuingNews']",[],295506983002447872,Low,2018-09-13 18:16:23
+"['ThirdPartyObservation', 'MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295821224456617984,Medium,2018-09-14 15:58:43
+"['ThirdPartyObservation', 'Factoid', 'Hashtags', 'ContinuingNews']",[],296020588131143680,Medium,2018-09-14 16:44:27
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295431238062317568,Low,2018-09-13 17:00:10
+"['Factoid', 'Hashtags', 'PastNews']",[],296001357226328064,Medium,2018-09-14 16:39:09
+"['MultimediaShare', 'ContinuingNews']",[],295486070219501568,Low,2018-09-13 17:35:03
+"['Official', 'Hashtags', 'Advice']",[],294896032305799168,Medium,2018-09-12 19:09:23
+"['ThirdPartyObservation', 'Factoid', 'Official', 'Hashtags', 'Sentiment']",[],296825210806599680,High,2018-09-17 16:26:06
+"['Hashtags', 'ContinuingNews']",[],296033556910702592,Low,2018-09-14 16:48:13
+"['Sentiment', 'Irrelevant']",[],296088967873433600,Low,2018-09-14 17:35:33
+"['ThirdPartyObservation', 'MultimediaShare', 'ContinuingNews']",[],295449177134075904,Low,2018-09-13 17:20:45
+"['Hashtags', 'ContinuingNews']",[],295850379076313088,Low,2018-09-14 16:06:04
+"['Factoid', 'ContinuingNews']",[],295786793436069888,High,2018-09-14 15:41:21
+"['Sentiment', 'Irrelevant']",[],295894972916441088,Low,2018-09-14 16:30:52
+"['Sentiment', 'Irrelevant']",[],294716738371743744,Low,2018-09-12 19:01:53
+"['SignificantEventChange', 'Hashtags', 'ContinuingNews', 'Advice']",[],295365962134343680,High,2018-09-13 16:34:53
+"['SignificantEventChange', 'Hashtags', 'Sentiment']",[],295817181172744192,Medium,2018-09-14 15:55:50
+"['Hashtags', 'ContinuingNews']",[],296133771407794176,Medium,2018-09-14 17:51:27
+"['EmergingThreats', 'Official', 'Hashtags', 'ContinuingNews', 'Advice']",[],295084197155074048,Critical,2018-09-13 15:56:37
+"['SignificantEventChange', 'Factoid', 'ContinuingNews']",[],296644994155040768,High,2018-09-17 16:17:24
+"['Sentiment', 'Discussion', 'Irrelevant']",[],296151731425914880,Low,2018-09-14 18:05:17
+"['ThirdPartyObservation', 'Hashtags', 'Unknown']",[],296056105497411584,Low,2018-09-14 16:53:26
+"['MultimediaShare', 'ContinuingNews']",[],294890223207337984,Medium,2018-09-12 19:09:08
+"['ThirdPartyObservation', 'MultimediaShare', 'ContinuingNews']",[],296349635470053376,Medium,2018-09-14 18:49:54
+"['MultimediaShare', 'Hashtags', 'PastNews', 'Irrelevant']",[],296098635744178176,Low,2018-09-14 17:39:20
+"['MultimediaShare', 'ContinuingNews']",[],296192277766893568,Medium,2018-09-14 18:34:16
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295820465283420160,Low,2018-09-14 15:58:02
+"['Hashtags', 'ContinuingNews', 'Discussion']",[],295707349115617280,Medium,2018-09-13 19:08:20
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295837972304117760,Medium,2018-09-14 16:03:52
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295725774688878592,Low,2018-09-13 19:15:31
+"['Sentiment', 'Irrelevant']",[],294752738095554560,Low,2018-09-12 19:03:03
+"['Hashtags', 'Sentiment', 'Discussion', 'Irrelevant']",[],296086623228157952,Low,2018-09-14 17:34:37
+"['MultimediaShare', 'PastNews', 'Irrelevant']",[],296985009624059904,Low,2018-09-17 16:35:33
+"['Hashtags', 'Irrelevant']",[],295735618732965888,Low,2018-09-13 19:17:37
+"['Sentiment', 'Irrelevant']",[],298174971417612288,Low,2018-09-17 17:11:38
+"['Hashtags', 'ContinuingNews']",[],296025365418229760,Low,2018-09-14 16:46:32
+"['SignificantEventChange', 'Factoid', 'ContinuingNews']",[],294592310157647872,High,2018-09-12 18:54:11
+['ContinuingNews'],[],296460973278121984,Low,2018-09-17 15:56:50
+"['ThirdPartyObservation', 'SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],296708378489651200,High,2018-09-17 16:19:02
+['Irrelevant'],[],295426339132026880,Low,2018-09-13 16:56:16
+"['Hashtags', 'Sentiment']",[],295776131498532864,Low,2018-09-14 15:35:31
+"['SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],296190734246223872,High,2018-09-14 18:33:48
+"['Factoid', 'Official', 'Hashtags', 'ContinuingNews']",[],295432240534532096,High,2018-09-13 17:01:19
+"['ThirdPartyObservation', 'Hashtags', 'ContinuingNews']",[],297195249099481088,Medium,2018-09-17 16:56:56
+"['Hashtags', 'Irrelevant']",[],295686591479947264,Low,2018-09-13 18:53:39
+"['Sentiment', 'Irrelevant']",[],295838899274657792,Low,2018-09-14 16:04:14
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295421918352404480,Low,2018-09-13 16:53:52
+"['FirstPartyObservation', 'MultimediaShare', 'Hashtags', 'ContinuingNews', 'Sentiment']",[],295363516842516480,Medium,2018-09-13 16:34:11
+"['Hashtags', 'ContinuingNews']",[],295332831318667264,Low,2018-09-13 16:26:30
+"['Sentiment', 'Irrelevant']",[],295813263663431680,Low,2018-09-14 15:53:53
+"['EmergingThreats', 'Official', 'ContinuingNews']",[],296397890937581568,High,2018-09-17 15:45:31
+"['ThirdPartyObservation', 'Hashtags', 'ContinuingNews', 'Advice']",[],296834455073615872,Medium,2018-09-17 16:28:27
+"['ThirdPartyObservation', 'SignificantEventChange', 'MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295693021356359680,High,2018-09-13 18:58:51
+"['MultimediaShare', 'Hashtags', 'Sentiment']",[],295649727750488064,Low,2018-09-13 18:44:40
+"['Official', 'Hashtags', 'Advice']",[],295752102343503872,Medium,2018-09-13 19:35:40
+"['EmergingThreats', 'Official', 'ContinuingNews']",[],295432966119755776,High,2018-09-13 17:02:38
+"['Sentiment', 'Irrelevant']",[],296429142700871680,Low,2018-09-17 15:51:15
+"['MultimediaShare', 'PastNews', 'Irrelevant']",[],296196040065949696,Low,2018-09-14 18:34:51
+"['MultimediaShare', 'PastNews']",[],296141530878595072,Low,2018-09-14 18:01:38
+"['FirstPartyObservation', 'EmergingThreats', 'Official', 'ContinuingNews', 'Advice']",[],295359125414637568,Critical,2018-09-13 16:32:56
+"['Factoid', 'Official', 'Hashtags', 'ContinuingNews']",[],296280127459966976,High,2018-09-14 18:48:05
+"['Hashtags', 'Irrelevant']",[],295772625060384768,Low,2018-09-14 15:31:24
+"['Hashtags', 'ContinuingNews']",[],296008416244154368,Medium,2018-09-14 16:41:52
+"['Hashtags', 'ContinuingNews', 'Sentiment']",[],297574862954844160,Medium,2018-09-17 17:05:17
+"['ContinuingNews', 'Irrelevant']",[],296383689036808192,Low,2018-09-14 18:58:10
+"['Hashtags', 'Advice', 'Irrelevant']",[],296068231221895168,Low,2018-09-14 17:23:13
+['Irrelevant'],[],294978668491599872,Low,2018-09-12 19:12:15
+['Advice'],[],295397859824660480,Low,2018-09-13 16:44:13
+"['Hashtags', 'Sentiment']",[],295430298554998784,Low,2018-09-13 16:58:07
+"['Donations', 'Official', 'Hashtags', 'ContinuingNews']",[],295643679576711168,Low,2018-09-13 18:32:30
+"['Hashtags', 'Advice']",[],296489813308235776,Medium,2018-09-17 16:02:36
+"['Official', 'Hashtags', 'ContinuingNews']",[],295493842260594688,Medium,2018-09-13 18:08:23
+"['SignificantEventChange', 'MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295436468376178688,High,2018-09-13 17:05:08
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295701628093341696,Low,2018-09-13 19:03:00
+"['MultimediaShare', 'KnownAlready']",[],295805432897880064,Low,2018-09-14 15:49:04
+"['ServiceAvailable', 'Hashtags', 'ContinuingNews']",[],295673287172829184,High,2018-09-13 18:50:49
+"['ContinuingNews', 'Advice']",[],294649323357102080,Low,2018-09-12 18:57:24
+"['Factoid', 'Official', 'Hashtags', 'ContinuingNews']",[],295559353078001664,High,2018-09-13 18:22:09
+"['Hashtags', 'ContinuingNews', 'Sentiment']",[],295393011171479552,Low,2018-09-13 16:41:05
+"['Weather', 'Hashtags', 'ContinuingNews']",[],295594912408301568,Low,2018-09-13 18:25:41
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295761564672339968,Low,2018-09-14 15:21:21
+"['EmergingThreats', 'Hashtags']",[],295874710212853760,High,2018-09-14 16:23:36
+"['Factoid', 'Hashtags', 'PastNews', 'Irrelevant']",[],296275572458397696,Low,2018-09-14 18:47:50
+"['ContinuingNews', 'Advice']",[],294976487440920576,Medium,2018-09-12 19:11:55
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],296091685765648384,Low,2018-09-14 17:36:05
+"['MultimediaShare', 'Hashtags', 'PastNews', 'Irrelevant']",[],295874102034591744,Low,2018-09-14 16:22:53
+"['ServiceAvailable', 'Hashtags', 'ContinuingNews']",[],295698209702039552,High,2018-09-13 19:01:07
+"['Hashtags', 'Unknown']",[],296074329748295680,Low,2018-09-14 17:27:50
+"['Hashtags', 'Advice']",[],295726143779254272,Medium,2018-09-13 19:15:55
+"['PastNews', 'Irrelevant']",[],296097553617936384,Low,2018-09-14 17:39:01
+"['Hashtags', 'ContinuingNews', 'Advice']",[],295491552187404288,Medium,2018-09-13 18:02:57
+['Weather'],[],295715674821623808,Low,2018-09-13 19:10:50
+"['ServiceAvailable', 'Hashtags', 'ContinuingNews']",[],296394933965824000,High,2018-09-14 18:59:21
+"['Official', 'ContinuingNews']",[],296065219703230464,Medium,2018-09-14 16:55:59
+"['Hashtags', 'ContinuingNews']",[],295336987852951552,Low,2018-09-13 16:27:33
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295821396423098368,Low,2018-09-14 15:59:00
+"['MultimediaShare', 'ContinuingNews']",[],298091039175081984,Medium,2018-09-17 17:10:58
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295854833422983168,Medium,2018-09-14 16:19:14
+"['Irrelevant', 'Unknown']",[],296479612735737856,Low,2018-09-17 16:01:20
+"['Sentiment', 'Irrelevant']",[],295742220546498560,Low,2018-09-13 19:19:11
+"['MultimediaShare', 'ContinuingNews']",[],295853344457641984,Low,2018-09-14 16:08:57
+"['ThirdPartyObservation', 'Irrelevant']",[],296406539584028672,Low,2018-09-17 15:47:46
+"['ThirdPartyObservation', 'MultimediaShare', 'Factoid', 'Hashtags', 'ContinuingNews']",[],296212376880041984,High,2018-09-14 18:39:10
+"['Donations', 'ThirdPartyObservation', 'ContinuingNews', 'Advice']",[],296501607674290176,Medium,2018-09-17 16:10:12
+"['ThirdPartyObservation', 'Hashtags', 'ContinuingNews', 'Advice']",[],296017710838591488,High,2018-09-14 16:43:09
+"['MovePeople', 'ThirdPartyObservation', 'EmergingThreats', 'Hashtags', 'ContinuingNews']",[],295682581754683392,High,2018-09-13 18:52:40
+"['Weather', 'Hashtags', 'ContinuingNews']",[],295471880880664576,Medium,2018-09-13 17:26:14
+"['Hashtags', 'ContinuingNews', 'Advice']",[],295653766886211584,Low,2018-09-13 18:44:55
+"['MultimediaShare', 'Hashtags', 'PastNews', 'Irrelevant']",[],296208014778699776,Low,2018-09-14 18:38:12
+"['ThirdPartyObservation', 'Factoid', 'PastNews', 'Irrelevant']",[],295822226903662592,Low,2018-09-14 16:00:39
+"['Sentiment', 'Irrelevant']",[],297307861980164096,Low,2018-09-17 17:01:35
+"['ThirdPartyObservation', 'MultimediaShare', 'Hashtags', 'ContinuingNews', 'Sentiment']",[],296777190228520960,Medium,2018-09-17 16:22:49
+"['Hashtags', 'Advice', 'Irrelevant']",[],296109356372611072,Low,2018-09-14 17:46:49
+"['Sentiment', 'Irrelevant']",[],295024369598607360,Low,2018-09-12 19:26:25
+"['MultimediaShare', 'Hashtags', 'PastNews', 'Sentiment', 'Irrelevant']",[],296190683935547392,Low,2018-09-14 18:33:29
+"['EmergingThreats', 'MultimediaShare', 'ContinuingNews']",[],295605876327329792,High,2018-09-13 18:28:00
+"['Factoid', 'Hashtags', 'Advice']",[],296203128414556160,Medium,2018-09-14 18:36:32
+"['SignificantEventChange', 'Factoid', 'ContinuingNews']",[],294383769383739392,High,2018-09-12 18:51:17
+"['Hashtags', 'ContinuingNews', 'Sentiment']",[],295699577074483200,Low,2018-09-13 19:02:09
+"['ThirdPartyObservation', 'MultimediaShare', 'Hashtags', 'Advice']",[],295879093273100288,High,2018-09-14 16:24:00
+"['SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],296378274177748992,Critical,2018-09-14 18:55:07
+"['ThirdPartyObservation', 'MultimediaShare', 'Hashtags']",[],295743516590632960,Low,2018-09-13 19:20:38
+"['Advice', 'Irrelevant']",[],296185784984285184,Low,2018-09-14 18:32:35
+"['Weather', 'EmergingThreats', 'Hashtags', 'ContinuingNews']",[],295085275087003648,High,2018-09-13 15:57:55
+"['Donations', 'ThirdPartyObservation', 'ContinuingNews']",[],295748381991649280,Low,2018-09-13 19:31:35
+"['SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],295075074569023488,High,2018-09-13 15:53:41
+"['FirstPartyObservation', 'Hashtags', 'PastNews', 'Irrelevant']",[],295960815104827392,Low,2018-09-14 16:34:49
+"['MultimediaShare', 'Sentiment', 'Irrelevant']",[],296483526021357568,Low,2018-09-17 16:01:58
+"['Sentiment', 'Irrelevant']",[],295770666328788992,Low,2018-09-14 15:29:20
+"['MultimediaShare', 'ContinuingNews']",[],295690588676816896,Medium,2018-09-13 18:54:55
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295430621499645952,Low,2018-09-13 16:59:23
+"['ThirdPartyObservation', 'SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],296182265971609600,High,2018-09-14 18:31:56
+"['MultimediaShare', 'Hashtags', 'Sentiment']",[],295819026628767744,Low,2018-09-14 15:56:51
+"['Factoid', 'Official', 'ContinuingNews']",[],295717868413276160,High,2018-09-13 19:12:59
+"['Hashtags', 'Discussion']",[],295358001328553984,Low,2018-09-13 16:32:15
+"['ContinuingNews', 'Advice']",[],295761799549181952,Low,2018-09-14 15:22:38
+['ContinuingNews'],[],295830980411928576,Low,2018-09-14 16:02:29
+"['MultimediaShare', 'ContinuingNews']",[],295563169919823872,Medium,2018-09-13 18:23:45
+"['Factoid', 'ContinuingNews']",[],295725443330482176,Medium,2018-09-13 19:15:14
+"['Weather', 'Official', 'ContinuingNews']",[],296109159252905984,Medium,2018-09-14 17:46:24
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],296518422639046656,Low,2018-09-17 16:12:04
+"['Advice', 'Irrelevant']",[],296199907214245888,Low,2018-09-14 18:36:13
+"['CleanUp', 'Hashtags', 'Advice']",[],296905665975304192,High,2018-09-17 16:32:09
+"['MultimediaShare', 'Official', 'Hashtags', 'Advice']",[],297150625890832384,Medium,2018-09-17 16:56:11
+"['MultimediaShare', 'Hashtags', 'Sentiment', 'Irrelevant']",[],295783970665283584,Low,2018-09-14 15:36:34
+"['MultimediaShare', 'ContinuingNews', 'Advice']",[],294839698591981568,High,2018-09-12 19:05:05
+"['ServiceAvailable', 'Hashtags', 'PastNews', 'Irrelevant']",[],296208031585296384,Low,2018-09-14 18:38:32
+"['SignificantEventChange', 'MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295683886191620096,High,2018-09-13 18:53:04
+"['ThirdPartyObservation', 'Hashtags', 'ContinuingNews']",[],296894114836930560,Low,2018-09-17 16:31:48
+"['Advice', 'Irrelevant']",[],296494401851621376,Low,2018-09-17 16:04:37
+"['Hashtags', 'Advice']",[],295869773512855552,Low,2018-09-14 16:21:49
+"['ContinuingNews', 'Advice']",[],295763598905597952,Low,2018-09-14 15:25:44
+"['SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],295335339529228288,High,2018-09-13 16:26:50
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295354293584805888,Medium,2018-09-13 16:30:55
+"['Hashtags', 'ContinuingNews', 'Sentiment', 'Irrelevant']",[],295508648141139968,Low,2018-09-13 18:16:51
+"['Sentiment', 'Irrelevant']",[],296422335341285376,Low,2018-09-17 15:50:34
+"['MultimediaShare', 'Factoid', 'ContinuingNews']",[],295805072191918080,Low,2018-09-14 15:48:10
+"['Weather', 'MultimediaShare', 'ContinuingNews']",[],294720815243612160,Medium,2018-09-12 19:02:15
+['Irrelevant'],[],295335389848289280,Low,2018-09-13 16:27:05
+"['Hashtags', 'Sentiment']",[],295657009079021568,Low,2018-09-13 18:47:02
+"['MultimediaShare', 'Hashtags', 'Irrelevant']",[],295861389124308992,Low,2018-09-14 16:19:44
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],296517831250563072,Low,2018-09-17 16:11:04
+"['ContinuingNews', 'Unknown']",[],297254644625838080,Medium,2018-09-17 16:59:20
+"['Factoid', 'Official', 'Hashtags', 'ContinuingNews']",[],296034718737113088,Medium,2018-09-14 16:48:31
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],296772391936352256,Low,2018-09-17 16:22:08
+"['ThirdPartyObservation', 'SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],295426657886552064,Critical,2018-09-13 16:57:14
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],296399086305816576,Low,2018-09-17 15:45:44
+"['Hashtags', 'ContinuingNews']",[],296352634401599488,Medium,2018-09-14 18:50:24
+"['ThirdPartyObservation', 'Hashtags', 'ContinuingNews']",[],294748434739630080,Low,2018-09-12 19:02:50
+"['MultimediaShare', 'Hashtags', 'Advice']",[],295717616771796992,Medium,2018-09-13 19:11:56
+"['Sentiment', 'Irrelevant']",[],298418580767252480,Low,2018-09-17 17:13:50
+"['Hashtags', 'Advice']",[],295737736831324160,Low,2018-09-13 19:18:11
+"['Factoid', 'Hashtags', 'ContinuingNews']",[],296087323702075392,High,2018-09-14 17:34:47
+"['Donations', 'Hashtags']",[],295881282716573696,Medium,2018-09-14 16:30:01
+"['Sentiment', 'Irrelevant']",[],295605087798185984,Low,2018-09-13 18:27:10
+"['Hashtags', 'ContinuingNews', 'Advice']",[],295797086241316864,Medium,2018-09-14 15:43:39
+"['PastNews', 'Irrelevant']",[],296145469317451776,Low,2018-09-14 18:03:17
+"['Hashtags', 'Advice', 'Irrelevant']",[],295874181747339264,Low,2018-09-14 16:23:12
+"['ThirdPartyObservation', 'Hashtags', 'Advice']",[],295998614176661504,High,2018-09-14 16:38:40
+"['ThirdPartyObservation', 'MultimediaShare', 'ContinuingNews']",[],296490014618030080,Low,2018-09-17 16:02:59
+"['Hashtags', 'Advice']",[],295752999916150784,Medium,2018-09-13 19:38:01
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],296045531627663360,Low,2018-09-14 16:51:22
+"['ThirdPartyObservation', 'Sentiment', 'Irrelevant']",[],297021063823499264,Low,2018-09-17 16:35:47
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],296044462113693696,Low,2018-09-14 16:51:12
+['Unknown'],[],298671019160391680,Low,2018-09-17 17:16:29
+"['ThirdPartyObservation', 'MultimediaShare', 'ContinuingNews']",[],296470347543359488,Medium,2018-09-17 15:58:48
+"['EmergingThreats', 'Hashtags', 'ContinuingNews', 'Advice']",[],294763987239854080,Critical,2018-09-12 19:03:35
+"['Hashtags', 'ContinuingNews', 'Sentiment']",[],295288770138370048,Medium,2018-09-13 16:23:17
+"['ThirdPartyObservation', 'SignificantEventChange', 'Hashtags']",[],296003387294625792,High,2018-09-14 16:40:23
+"['MultimediaShare', 'KnownAlready']",[],295769315762921472,Low,2018-09-14 15:28:17
+"['Donations', 'Official', 'Irrelevant']",[],298435026637451264,Low,2018-09-17 17:14:09
+['Irrelevant'],[],295067088589058048,Low,2018-09-13 15:51:47
+"['ThirdPartyObservation', 'EmergingThreats', 'Hashtags', 'ContinuingNews']",[],295359268012556288,High,2018-09-13 16:33:37
+"['Sentiment', 'Irrelevant']",[],295804719882969088,Low,2018-09-14 15:47:46
+"['MultimediaShare', 'PastNews', 'Irrelevant']",[],296218307621699584,Low,2018-09-14 18:40:17
+"['MultimediaShare', 'Hashtags', 'Sentiment', 'Irrelevant']",[],296013650722967552,Low,2018-09-14 16:42:26
+"['Hashtags', 'ContinuingNews', 'Advice']",[],295612754973323264,High,2018-09-13 18:28:28
+"['Hashtags', 'Sentiment']",[],295476821787545600,Low,2018-09-13 17:29:18
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295866002850336768,Low,2018-09-14 16:20:42
+"['EmergingThreats', 'Hashtags', 'ContinuingNews']",[],295143408140427264,High,2018-09-13 16:13:49
+"['ThirdPartyObservation', 'Hashtags', 'ContinuingNews']",[],296508205306109952,Medium,2018-09-17 16:10:44
+"['ThirdPartyObservation', 'Hashtags', 'Advice', 'Irrelevant']",[],296914260100001792,Low,2018-09-17 16:32:58
+"['Sentiment', 'Irrelevant']",[],295863230407000064,Low,2018-09-14 16:20:07
+"['MultimediaShare', 'Hashtags', 'ContinuingNews', 'Sentiment']",[],295386124124291072,Medium,2018-09-13 16:39:32
+"['Discussion', 'Irrelevant']",[],295672016307097600,Low,2018-09-13 18:50:18
+"['Hashtags', 'Irrelevant']",[],295773556191678464,Low,2018-09-14 15:32:50
+"['ThirdPartyObservation', 'SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],295423872872890368,Medium,2018-09-13 16:54:43
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295633973953056768,Low,2018-09-13 18:30:51
+"['Hashtags', 'Sentiment']",[],295088479543648256,Low,2018-09-13 15:58:20
+"['Factoid', 'ContinuingNews', 'Sentiment']",[],297613274399272960,High,2018-09-17 17:05:59
+"['SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],295020598957051904,High,2018-09-12 19:26:12
+"['ThirdPartyObservation', 'Factoid', 'CleanUp', 'Hashtags', 'ContinuingNews']",[],296474118231044096,Medium,2018-09-17 16:00:31
+['ContinuingNews'],[],296039252788129792,Low,2018-09-14 16:50:09
+"['MultimediaShare', 'Hashtags', 'PastNews', 'Irrelevant']",[],296232094303129600,Low,2018-09-14 18:41:28
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],297052474991341568,Low,2018-09-17 16:37:11
+"['EmergingThreats', 'Official', 'Hashtags', 'ContinuingNews', 'Advice']",[],295359003763040256,Critical,2018-09-13 16:32:37
+"['Weather', 'ContinuingNews']",[],294609615847571456,Medium,2018-09-12 18:55:10
+"['SignificantEventChange', 'MultimediaShare', 'ContinuingNews']",[],294999522558504960,Critical,2018-09-12 19:14:55
+"['Sentiment', 'Irrelevant']",[],296298095862505472,Low,2018-09-14 18:48:24
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],296116323119931392,Low,2018-09-14 17:48:09
+"['Hashtags', 'Sentiment']",[],295432269869486080,Low,2018-09-13 17:01:56
+"['EmergingThreats', 'ServiceAvailable', 'Factoid', 'Hashtags', 'ContinuingNews']",[],295746213515497472,High,2018-09-13 19:23:44
+"['Factoid', 'ContinuingNews']",[],295810235380137984,Medium,2018-09-14 15:50:07
+"['MultimediaShare', 'PastNews', 'Irrelevant']",[],296978021896826880,Low,2018-09-17 16:35:06
+"['Hashtags', 'Irrelevant']",[],295306205872676864,Low,2018-09-13 16:23:55
+"['ThirdPartyObservation', 'MultimediaShare', 'Sentiment', 'Irrelevant']",[],296435312530432000,Low,2018-09-17 15:52:56
+"['Sentiment', 'Irrelevant']",[],294603387343892480,Low,2018-09-12 18:54:24
+"['SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],295793240081313792,High,2018-09-14 15:43:03
+"['MultimediaShare', 'ContinuingNews']",[],296382481077260288,Medium,2018-09-14 18:57:31
+['Irrelevant'],[],295762512589238272,Low,2018-09-14 15:22:56
+"['Hashtags', 'ContinuingNews']",[],296403725214416896,Medium,2018-09-17 15:46:59
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295712273203335168,Low,2018-09-13 19:10:20
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295664550433411072,Low,2018-09-13 18:48:46
+"['Hashtags', 'Discussion', 'Unknown']",[],296204688691429376,Low,2018-09-14 18:37:06
+"['Sentiment', 'Irrelevant']",[],295776106328502272,Low,2018-09-14 15:35:19
+"['EmergingThreats', 'Official', 'Hashtags', 'ContinuingNews']",[],297489085273079808,High,2018-09-17 17:04:15
+"['Hashtags', 'Sentiment']",[],295751980717051904,Low,2018-09-13 19:35:20
+"['ThirdPartyObservation', 'MultimediaShare', 'Hashtags', 'Sentiment', 'Irrelevant']",[],296557899436675072,Low,2018-09-17 16:14:14
+"['MultimediaShare', 'Factoid', 'Hashtags', 'ContinuingNews']",[],295809711087943680,Medium,2018-09-14 15:49:37
+"['MultimediaShare', 'Hashtags', 'ContinuingNews', 'Advice']",[],295393233494765568,Medium,2018-09-13 16:41:42
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295452176027906048,Low,2018-09-13 17:21:59
+"['ThirdPartyObservation', 'CleanUp', 'Hashtags', 'ContinuingNews']",[],296456955139076096,Medium,2018-09-17 15:54:40
+"['MultimediaShare', 'Factoid', 'Sentiment']",[],296097197081100288,Low,2018-09-14 17:38:21
+"['SignificantEventChange', 'Hashtags', 'Sentiment']",[],295992935068098560,High,2018-09-14 16:37:14
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],297239100556193792,Low,2018-09-17 16:57:49
+"['Hashtags', 'Sentiment']",[],295427165422493696,Low,2018-09-13 16:57:29
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295769076670808064,Low,2018-09-14 15:27:52
+"['SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],294959261455372288,High,2018-09-12 19:10:49
+"['MovePeople', 'EmergingThreats', 'Official', 'ContinuingNews']",[],295745215283736576,High,2018-09-13 19:21:41
+"['Sentiment', 'Irrelevant']",[],296814351757750272,Low,2018-09-17 16:24:42
+"['Volunteer', 'Hashtags', 'ContinuingNews']",[],295765624750231552,Medium,2018-09-14 15:27:20
+"['ThirdPartyObservation', 'SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],295814861710057472,High,2018-09-14 15:54:27
+"['Hashtags', 'ContinuingNews']",[],295752714711871488,Low,2018-09-13 19:36:55
+"['SignificantEventChange', 'ContinuingNews']",[],294219100979343360,High,2018-09-12 18:48:41
+"['Hashtags', 'Sentiment']",[],295669986234601472,Low,2018-09-13 18:49:41
+"['MultimediaShare', 'Hashtags', 'Irrelevant']",[],296070227714789376,Low,2018-09-14 17:23:43
+"['MultimediaShare', 'Factoid', 'Hashtags', 'ContinuingNews']",[],295751389320200192,Medium,2018-09-13 19:34:20
+"['MultimediaShare', 'ContinuingNews']",[],295473197896331264,Low,2018-09-13 17:27:59
+"['Sentiment', 'Irrelevant']",[],296094542103449600,Low,2018-09-14 17:36:36
+"['MultimediaShare', 'KnownAlready']",[],295732485554331648,Low,2018-09-13 19:17:22
+"['Hashtags', 'ContinuingNews']",[],296140096422440960,Medium,2018-09-14 17:51:45
+"['Official', 'Hashtags', 'ContinuingNews']",[],295658036658315264,Low,2018-09-13 18:47:36
+"['Hashtags', 'Advice']",[],295695273722802176,Medium,2018-09-13 19:00:23
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],296871822106972160,Low,2018-09-17 16:29:49
+"['MultimediaShare', 'Factoid', 'ContinuingNews']",[],295880330596990976,Medium,2018-09-14 16:28:54
+"['CleanUp', 'ContinuingNews']",[],296467038237503488,Low,2018-09-17 15:58:07
+"['MultimediaShare', 'PastNews', 'Irrelevant']",[],296383793877639168,Low,2018-09-14 18:58:31
+"['Official', 'Hashtags', 'ContinuingNews']",[],295109748876005376,High,2018-09-13 16:01:44
+"['Donations', 'Hashtags', 'ContinuingNews']",[],295761757614505984,Medium,2018-09-14 15:21:52
+"['Hashtags', 'Sentiment']",[],295709408531460096,Low,2018-09-13 19:09:23
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295693910573993984,Low,2018-09-13 18:59:29
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295419720520310784,Low,2018-09-13 16:53:05
+"['ThirdPartyObservation', 'Factoid', 'Hashtags', 'ContinuingNews']",[],296162343010832384,Low,2018-09-14 18:06:57
+"['MultimediaShare', 'Hashtags', 'Advice']",[],296219909829046272,Medium,2018-09-14 18:41:18
+"['Official', 'Hashtags', 'ContinuingNews']",[],295481058013634560,Medium,2018-09-13 17:31:51
+"['ServiceAvailable', 'Hashtags', 'Sentiment']",[],296023016624771072,Low,2018-09-14 16:44:54
+"['Hashtags', 'ContinuingNews', 'Advice']",[],295061992513880064,Medium,2018-09-12 19:28:28
+"['Hashtags', 'ContinuingNews', 'Sentiment']",[],295443124753424384,Low,2018-09-13 17:18:22
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295500481822875648,Low,2018-09-13 18:09:04
+"['ServiceAvailable', 'Official', 'Hashtags']",[],296123566682939392,Medium,2018-09-14 17:51:02
+"['ThirdPartyObservation', 'Hashtags', 'ContinuingNews']",[],296850326324117504,Low,2018-09-17 16:29:24
+"['Sentiment', 'Irrelevant']",[],298654954967670784,Low,2018-09-17 17:15:41
+"['Hashtags', 'ContinuingNews', 'Advice']",[],295017344139419648,Low,2018-09-12 19:24:13
+"['MultimediaShare', 'Official', 'ContinuingNews']",[],293253358318391296,Low,2018-09-12 18:42:36
+"['MultimediaShare', 'Hashtags', 'Irrelevant']",[],296380828496310272,Low,2018-09-14 18:56:16
+"['Sentiment', 'Irrelevant']",[],295432802567081984,Low,2018-09-13 17:02:11
+"['Official', 'ContinuingNews']",[],295655528464527360,Medium,2018-09-13 18:46:33
+"['Factoid', 'Official', 'Hashtags', 'ContinuingNews', 'Advice']",[],295390037409935360,High,2018-09-13 16:40:25
+"['Hashtags', 'ContinuingNews']",[],295445112853508096,Medium,2018-09-13 17:20:06
+"['ThirdPartyObservation', 'SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],295341916160139264,High,2018-09-13 16:29:14
+"['Official', 'Hashtags', 'ContinuingNews']",[],296253388776153088,Medium,2018-09-14 18:46:05
+"['ThirdPartyObservation', 'Factoid', 'Hashtags']",[],297099996434661376,Medium,2018-09-17 16:39:59
+"['Hashtags', 'ContinuingNews']",[],295978598957989888,High,2018-09-14 16:35:28
+"['ThirdPartyObservation', 'SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],296062078182113280,High,2018-09-14 16:55:25
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295622418637152256,Low,2018-09-13 18:29:14
+"['ThirdPartyObservation', 'PastNews', 'Irrelevant']",[],296147218333831168,Low,2018-09-14 18:04:12
+"['Factoid', 'Hashtags', 'ContinuingNews']",[],295705931453452288,Medium,2018-09-13 19:06:52
+"['Hashtags', 'ContinuingNews']",[],295742388343828480,Medium,2018-09-13 19:19:28
+"['EmergingThreats', 'Advice', 'Irrelevant']",[],296747838476517376,Low,2018-09-17 16:21:17
+['Sentiment'],[],295313797562892288,Low,2018-09-13 16:26:02
+"['ContinuingNews', 'Advice']",[],294960435843719168,High,2018-09-12 19:11:08
+"['Hashtags', 'ContinuingNews', 'Discussion']",[],295440813654151168,Low,2018-09-13 17:17:36
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295871564518412288,Low,2018-09-14 16:22:11
+"['ThirdPartyObservation', 'MultimediaShare', 'Sentiment', 'Irrelevant']",[],296232278848311296,Low,2018-09-14 18:41:52
+"['Hashtags', 'ContinuingNews', 'Advice']",[],295708112470548480,Medium,2018-09-13 19:09:00
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295601686213451776,Low,2018-09-13 18:26:54
+"['SignificantEventChange', 'ContinuingNews']",[],294240391300005888,High,2018-09-12 18:49:23
+"['MovePeople', 'Hashtags', 'ContinuingNews']",[],295772817998376960,High,2018-09-14 15:32:05
+"['ThirdPartyObservation', 'MultimediaShare', 'Hashtags', 'Advice', 'Irrelevant']",[],297127733362819072,Medium,2018-09-17 16:54:50
+"['Sentiment', 'Irrelevant']",[],295830867174113280,Low,2018-09-14 16:01:30
+"['ThirdPartyObservation', 'Official', 'Hashtags', 'ContinuingNews']",[],295457427325874176,Medium,2018-09-13 17:23:16
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295772436308312064,Low,2018-09-14 15:29:42
+"['ContinuingNews', 'Discussion']",[],295089276490764288,Low,2018-09-13 16:00:19
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],296050417996005376,Low,2018-09-14 16:51:32
+"['EmergingThreats', 'MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295691196850913280,High,2018-09-13 18:55:56
+"['Factoid', 'ContinuingNews']",[],295723191010226176,Medium,2018-09-13 19:14:43
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],297677740839153664,Low,2018-09-17 17:06:40
+"['ThirdPartyObservation', 'MultimediaShare', 'ContinuingNews']",[],296096295297376256,Low,2018-09-14 17:37:13
+"['Official', 'Advice', 'Discussion', 'Irrelevant']",[],296805908636381184,Low,2018-09-17 16:23:46
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],296153350410477568,Medium,2018-09-14 18:06:20
+"['Hashtags', 'Sentiment']",[],295674570625667072,Low,2018-09-13 18:51:39
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295867034665893888,Low,2018-09-14 16:21:06
+"['Discussion', 'Irrelevant']",[],294365138268614656,Low,2018-09-12 18:50:00
+"['MultimediaShare', 'Hashtags', 'Sentiment']",[],295376699527417856,Medium,2018-09-13 16:37:26
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295706623492644864,Low,2018-09-13 19:07:10
+"['Sentiment', 'Irrelevant']",[],295721257406697472,Low,2018-09-13 19:13:22
+"['SignificantEventChange', 'Hashtags', 'ContinuingNews']",[],293978649948979200,High,2018-09-12 18:47:05
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295395573916372992,Medium,2018-09-13 16:42:04
+"['Hashtags', 'ContinuingNews']",[],296464945263030272,Medium,2018-09-17 15:57:36
+"['Factoid', 'Hashtags', 'ContinuingNews']",[],296484767535345664,High,2018-09-17 16:02:19
+"['Sentiment', 'Irrelevant']",[],295039045497655296,Low,2018-09-12 19:26:39
+"['Hashtags', 'Sentiment']",[],295657218794209280,Low,2018-09-13 18:47:15
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295811367854825472,Low,2018-09-14 15:50:20
+"['ThirdPartyObservation', 'MultimediaShare']",[],295440272597344256,Low,2018-09-13 17:13:51
+"['EmergingThreats', 'MultimediaShare', 'Hashtags', 'ContinuingNews']",[],296171822137876480,High,2018-09-14 18:07:44
+"['Hashtags', 'Sentiment']",[],295444429148389376,Low,2018-09-13 17:19:36
+"['Factoid', 'Hashtags', 'ContinuingNews']",[],295707143577939968,High,2018-09-13 19:07:33
+"['ThirdPartyObservation', 'MultimediaShare', 'Hashtags', 'ContinuingNews']",[],296082919657725952,Medium,2018-09-14 17:30:22
+"['Hashtags', 'Advice']",[],294936935150006272,Medium,2018-09-12 19:10:33
+"['MultimediaShare', 'PastNews', 'Irrelevant']",[],296372536369897472,Low,2018-09-14 18:54:13
+"['Official', 'Hashtags', 'ContinuingNews', 'Advice']",[],295345078694727680,High,2018-09-13 16:29:43
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],296016486089244672,Low,2018-09-14 16:42:43
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],296517957067100160,Low,2018-09-17 16:11:45
+"['EmergingThreats', 'Official', 'ContinuingNews']",[],297231802454646784,Medium,2018-09-17 16:57:32
+"['Discussion', 'Irrelevant']",[],296461413671661568,Low,2018-09-17 15:57:07
+"['MultimediaShare', 'Official', 'Hashtags', 'ContinuingNews']",[],295395657802469376,Medium,2018-09-13 16:42:33
+"['Hashtags', 'ContinuingNews', 'Sentiment']",[],295407477363716096,Low,2018-09-13 16:45:38
+"['Hashtags', 'Sentiment']",[],295534451520335872,Low,2018-09-13 18:19:26
+"['Hashtags', 'Unknown']",[],295673643671904256,Low,2018-09-13 18:51:25
+"['Volunteer', 'ThirdPartyObservation', 'CleanUp', 'Hashtags', 'Advice']",[],297300895216058368,Medium,2018-09-17 17:01:24
+"['SignificantEventChange', 'MultimediaShare', 'Hashtags', 'ContinuingNews', 'Discussion']",[],295654739939577856,High,2018-09-13 18:45:49
+"['InformationWanted', 'Hashtags', 'ContinuingNews']",[],295751460602400768,Medium,2018-09-13 19:34:57
+"['Sentiment', 'Irrelevant']",[],294767623667855360,Low,2018-09-12 19:04:18
+"['MultimediaShare', 'PastNews', 'Irrelevant']",[],296075009196163072,Low,2018-09-14 17:28:36
+"['Factoid', 'Official', 'Hashtags', 'ContinuingNews']",[],295434299916820480,Critical,2018-09-13 17:03:01
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],297276920578584576,Low,2018-09-17 16:59:37
+"['ThirdPartyObservation', 'Factoid', 'Official', 'Hashtags', 'ContinuingNews']",[],295693327540576256,Medium,2018-09-13 18:59:12
+"['Factoid', 'Hashtags', 'ContinuingNews', 'Advice']",[],295428713120690176,Low,2018-09-13 16:57:55
+"['MultimediaShare', 'Hashtags', 'KnownAlready']",[],295739532001828864,Low,2018-09-13 19:19:00
+"['SignificantEventChange', 'Factoid', 'Hashtags', 'ContinuingNews']",[],295368910738444288,High,2018-09-13 16:35:16
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295716698194067456,Low,2018-09-13 19:11:25
+"['Sentiment', 'Irrelevant']",[],295436833263853568,Low,2018-09-13 17:05:42
+"['Sentiment', 'Irrelevant']",[],295765310181621760,Low,2018-09-14 15:26:06
+"['Donations', 'Discussion']",[],296080860258635776,Low,2018-09-14 17:29:30
+"['FirstPartyObservation', 'Weather', 'Official', 'Hashtags', 'ContinuingNews']",[],295382131167854592,High,2018-09-13 16:39:13
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295889973318664192,Low,2018-09-14 16:30:41
+"['Official', 'Hashtags', 'ContinuingNews', 'Advice']",[],295276862538645504,High,2018-09-13 16:21:30
+"['Hashtags', 'Advice', 'Irrelevant']",[],296072668774551552,Low,2018-09-14 17:26:34
+"['ContinuingNews', 'Sentiment']",[],293266591339147264,Low,2018-09-12 18:42:58
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],296869808862027776,Low,2018-09-17 16:29:36
+"['PastNews', 'Irrelevant']",[],297369233023717376,Low,2018-09-17 17:02:20
+"['Weather', 'MultimediaShare', 'Hashtags']",[],293071229055799296,Low,2018-09-12 18:39:53
+"['Hashtags', 'ContinuingNews', 'Advice']",[],295749099196649472,Medium,2018-09-13 19:32:16
+"['Hashtags', 'ContinuingNews', 'Irrelevant']",[],295905668374863872,Low,2018-09-14 16:32:15
+"['ThirdPartyObservation', 'Official', 'ContinuingNews', 'Advice']",[],295357305090875392,Medium,2018-09-13 16:31:55
+"['Weather', 'EmergingThreats', 'Official', 'Hashtags', 'ContinuingNews']",[],295311247438647296,High,2018-09-13 16:25:34
+"['EmergingThreats', 'Official', 'ContinuingNews']",[],295524066411036672,Medium,2018-09-13 18:17:59
+"['SignificantEventChange', 'Official', 'ContinuingNews']",[],295761480815632384,High,2018-09-14 15:20:53
+"['Sentiment', 'Irrelevant']",[],295746133836300288,Low,2018-09-13 19:23:03
+['ContinuingNews'],[],296183280968028160,Medium,2018-09-14 18:32:17
+"['MultimediaShare', 'ContinuingNews']",[],294579706265751552,Medium,2018-09-12 18:53:07
+"['MultimediaShare', 'ContinuingNews', 'Advice']",[],295409335432007680,Medium,2018-09-13 16:49:54
+"['Hashtags', 'Sentiment']",[],295789679092056064,Low,2018-09-14 15:41:32
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295818670142287872,Low,2018-09-14 15:56:02
+"['SignificantEventChange', 'ContinuingNews']",[],293925403238748160,High,2018-09-12 18:45:49
+"['ThirdPartyObservation', 'Weather', 'EmergingThreats', 'Official', 'Hashtags', 'ContinuingNews']",[],295082720781021184,High,2018-09-13 15:56:01
+"['Donations', 'Hashtags', 'ContinuingNews']",[],298649594626183168,Medium,2018-09-17 17:15:18
+"['Hashtags', 'Irrelevant']",[],295813586637438976,Low,2018-09-14 15:54:03
+"['Sentiment', 'Irrelevant']",[],296249743930171392,Low,2018-09-14 18:45:07
+"['MultimediaShare', 'Hashtags', 'Sentiment', 'Irrelevant']",[],295815289529065472,Low,2018-09-14 15:55:05
+"['Sentiment', 'Irrelevant']",[],295819915825381376,Low,2018-09-14 15:57:21
+"['Official', 'Hashtags', 'PastNews']",[],296053110743367680,Low,2018-09-14 16:52:17
+"['MultimediaShare', 'ContinuingNews']",[],295798008979804160,Low,2018-09-14 15:46:22
+"['Hashtags', 'Advice', 'Irrelevant']",[],296071611822505984,Low,2018-09-14 17:24:29
+['ContinuingNews'],[],295797140788232192,Low,2018-09-14 15:45:24
+"['Sentiment', 'Irrelevant']",[],295756783165771776,Low,2018-09-14 15:11:52
+"['FirstPartyObservation', 'Hashtags', 'ContinuingNews']",[],297087958786392064,High,2018-09-17 16:38:32
+"['Donations', 'ContinuingNews', 'Advice']",[],295762919428354048,Low,2018-09-14 15:23:39
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295424996963147776,Low,2018-09-13 16:55:37
+"['Hashtags', 'Sentiment', 'Irrelevant']",[],295684318200750080,Low,2018-09-13 18:53:16
+"['Hashtags', 'Irrelevant']",[],295819177632092160,Low,2018-09-14 15:57:08
+"['Weather', 'MultimediaShare', 'ContinuingNews']",[],295752949584519168,Medium,2018-09-13 19:37:27
+"['Hashtags', 'Advice']",[],295434442535743488,Medium,2018-09-13 17:03:26
+"['Hashtags', 'Irrelevant']",[],295417103262031872,Low,2018-09-13 16:52:50
+"['Factoid', 'ContinuingNews']",[],294706311365537792,Medium,2018-09-12 19:01:42
+"['MultimediaShare', 'Official', 'ContinuingNews']",[],295647504777764864,Low,2018-09-13 18:42:43
+"['ThirdPartyObservation', 'EmergingThreats', 'Hashtags', 'ContinuingNews']",[],296100644782239744,High,2018-09-14 17:40:15
+"['MultimediaShare', 'Hashtags', 'Advice', 'Irrelevant']",[],296377569513730048,Low,2018-09-14 18:54:48
+"['ThirdPartyObservation', 'ContinuingNews', 'Advice']",[],295750697230663680,Medium,2018-09-13 19:33:33
+"['Hashtags', 'Sentiment']",[],295751787779084288,Low,2018-09-13 19:35:08
+"['Hashtags', 'Sentiment']",[],298243938328932352,Low,2018-09-17 17:12:21
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295421847028236288,Low,2018-09-13 16:53:28
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295797644104695808,Low,2018-09-14 15:46:04
+"['ThirdPartyObservation', 'MultimediaShare', 'Hashtags', 'Irrelevant']",[],295504885879828480,Low,2018-09-13 18:13:37
+"['MultimediaShare', 'ContinuingNews']",[],296106462298648576,Medium,2018-09-14 17:44:13
+"['MultimediaShare', 'Hashtags', 'ContinuingNews']",[],295000478855593984,Critical,2018-09-12 19:15:23
+"['MultimediaShare', 'ContinuingNews']",[],296261118857457664,High,2018-09-14 18:46:38
+"['MultimediaShare', 'PastNews', 'Irrelevant']",[],295865730233163776,Low,2018-09-14 16:20:26
+"['EmergingThreats', 'Hashtags', 'ContinuingNews']",[],294648903926681600,Medium,2018-09-12 18:56:21
+"['ThirdPartyObservation', 'Factoid', 'Official', 'Hashtags', 'ContinuingNews']",[],296965606769565696,High,2018-09-17 16:34:15
+"['SignificantEventChange', 'Official', 'Hashtags', 'ContinuingNews']",[],295045731205672960,High,2018-09-12 19:27:36
+"['Hashtags', 'Advice', 'Irrelevant']",[],296339275514011648,Low,2018-09-14 18:49:30
+"['Hashtags', 'Advice']",[],293961394578128896,Low,2018-09-12 18:46:02

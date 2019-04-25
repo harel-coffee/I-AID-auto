@@ -132,7 +132,9 @@ class Dataset_Reader:
         for event in event_list:
             file_paths.append(path + event +'/'+ event +'_all.csv')
 
+
         frames = [ pd.read_csv(fpath, header=0, index_col='postID', engine='python') for fpath in file_paths ]
+
         combined_df = pd.concat(frames)
 
         combined_df.to_csv(path+'/'+'all_events.csv')

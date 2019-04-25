@@ -5,9 +5,6 @@ import pandas as pd
 
 from nltk.stem.porter import PorterStemmer
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.feature_extraction.text import CountVectorizer
-
-from sklearn.decomposition import LatentDirichletAllocation
 
 
 class Linguistic_Features:
@@ -45,20 +42,6 @@ class Linguistic_Features:
         features = event_df.join(features)
 
         return features
-
-    def topicModel_feature(self, event_df, features_cnt, no_topics):
-
-        # get list of tweets
-        tweets_list = event_df['full_text'].tolist()
-
-        tf_vectorizer = CountVectorizer(
-            max_df=0.95, min_df=2, max_features=features_cnt, stop_words='english')
-        tf = tf_vectorizer.fit_transform(tweets_list)
-        tf_feature_names = tf_vectorizer.get_feature_names()
-
-        # apply topic modelling technique using LDA
-        lda = LatentDirichletAllocation(
-            n_topics=no_topics, max_iter=5, learning_method='online', learning_offset=50., random_state=0).fit(tf)
 
 
 if __name__ == "__main__":

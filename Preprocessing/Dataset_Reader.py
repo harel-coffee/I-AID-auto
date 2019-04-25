@@ -95,7 +95,7 @@ class Dataset_Reader:
 
     def merge_trecData_tweets(self, path, event_name):
         #tweets_path = path+event_name+'/'+event_name+'_tweets.csv'
-
+        print(event_name)
         tweets_path = path+event_name+'/trecis2018-test.'+event_name+'.csv' # to load tweets retrieved by TREC-Downloader.jar
         trec_path = path+event_name+'/'+event_name+'.csv'
 
@@ -111,39 +111,70 @@ class Dataset_Reader:
 
         print(len(tweets_df), len(trec_df))
         count = 0
-        '''
+
+
         for index, row in tweets_df.iterrows():
-            trec_df.loc[index, 'full_text'] = row['full_text']
+            trec_df.loc[index, 'full_text'] = row['Text']
             #print(row['full_text'])
 
         trec_df.to_csv(path+event_name+'/'+event_name+'_all.csv')
+
+    def combine_all_events(self, path, event_list):
         '''
+        :param path: to save the common dataframe
+        :param event_list: all the events in train/test dataset
+        :return: save the combined df in the given path
+        '''
+        # event_df_path = path + event_list[0] + '/' + event_list[0] + '_all.csv'
+        # combined_df = pd.read_csv(event_df_path, header=0, index_col='tweet_id', engine='python')
+
+        file_paths = []
+        for event in event_list:
+            file_paths.append(path + event +'/'+ event +'_all.csv')
+
+        frames = [ pd.read_csv(fpath, header=0, engine='python') for fpath in file_paths ]
+        combined_df = pd.concat(frames)
+
+        combined_df.to_csv(path+'/'+'all_events.csv')
+        print(len(combined_df))
+
 
 if __name__ == "__main__":
     TREC_Data = Dataset_Reader()
+    events_names = ['albertaFloods2013', 'australiaBushfire2013', 'bostonBombings2013', 'chileEarthquake2014',
+                    'flSchoolShooting2018',
+                    'guatemalaEarthquake2012', 'italyEarthquakes2012', 'joplinTornado2011', 'manilaFloods2013',
+                    'nepalEarthquake2015', 'parisAttacks2015', 'philipinnesFloods2012', 'queenslandFloods2013',
+                    'typhoonHagupit2014', 'typhoonYolanda2013']
+
+    TREC_Data.combine_all_events('Data/TREC_Data/', events_names)
 
     #TREC_Data.load_tweets_events()
-    TREC_Data.merge_trecData_tweets('Data/TREC_Data/', 'bostonBombings2013')
-
-    TREC_Data.merge_trecData_tweets('Data/TREC_Data/','australiaBushfire2013')
-
-    
-    TREC_Data.merge_trecData_tweets('Data/TREC_Data/','albertaFloods2013')
-    
-    TREC_Data.merge_trecData_tweets('Data/TREC_Data/','bostonBombings2013')
-    TREC_Data.merge_trecData_tweets('Data/TREC_Data/','chileEarthquake2014')
-
-    TREC_Data.merge_trecData_tweets('Data/TREC_Data/','guatemalaEarthquake2012')
-    TREC_Data.merge_trecData_tweets('Data/TREC_Data/','italyEarthquakes2012')
-    
-    TREC_Data.merge_trecData_tweets('Data/TREC_Data/','joplinTornado2011')
-    TREC_Data.merge_trecData_tweets('Data/TREC_Data/','manilaFloods2013')
-
-    TREC_Data.merge_trecData_tweets('Data/TREC_Data/','parisAttacks2015')
-    TREC_Data.merge_trecData_tweets('Data/TREC_Data/','philipinnesFloods2012')
-    
-    TREC_Data.merge_trecData_tweets('Data/TREC_Data/','typhoonHagupit2014')
-    TREC_Data.merge_trecData_tweets('Data/TREC_Data/','typhoonYolanda2013')
+    # TREC_Data.merge_trecData_tweets('Data/TREC_Data/', 'bostonBombings2013')
+    #
+    # TREC_Data.merge_trecData_tweets('Data/TREC_Data/','australiaBushfire2013')
+    #
+    #
+    # TREC_Data.merge_trecData_tweets('Data/TREC_Data/','albertaFloods2013')
+    #
+    # TREC_Data.merge_trecData_tweets('Data/TREC_Data/','bostonBombings2013')
+    # TREC_Data.merge_trecData_tweets('Data/TREC_Data/','chileEarthquake2014')
+    #
+    # TREC_Data.merge_trecData_tweets('Data/TREC_Data/','guatemalaEarthquake2012')
+    # TREC_Data.merge_trecData_tweets('Data/TREC_Data/','italyEarthquakes2012')
+    #
+    # TREC_Data.merge_trecData_tweets('Data/TREC_Data/', 'flSchoolShooting2018')
+    # TREC_Data.merge_trecData_tweets('Data/TREC_Data/', 'queenslandFloods2013')
+    # TREC_Data.merge_trecData_tweets('Data/TREC_Data/', 'nepalEarthquake2015')
+    #
+    # TREC_Data.merge_trecData_tweets('Data/TREC_Data/','joplinTornado2011')
+    # TREC_Data.merge_trecData_tweets('Data/TREC_Data/','manilaFloods2013')
+    #
+    # TREC_Data.merge_trecData_tweets('Data/TREC_Data/','parisAttacks2015')
+    # TREC_Data.merge_trecData_tweets('Data/TREC_Data/','philipinnesFloods2012')
+    #
+    # TREC_Data.merge_trecData_tweets('Data/TREC_Data/','typhoonHagupit2014')
+    # TREC_Data.merge_trecData_tweets('Data/TREC_Data/','typhoonYolanda2013')
 
 
 

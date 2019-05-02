@@ -6,8 +6,6 @@ from matplotlib import pyplot as plt
 from wordcloud import WordCloud,STOPWORDS
 from sklearn.preprocessing import MultiLabelBinarizer
 
-
-
 class DataAnalysis:
     def __init__(self):
         self.mlb = MultiLabelBinarizer()
@@ -25,7 +23,7 @@ class DataAnalysis:
                               'Sentiment', 'ServiceAvailable', 'SignificantEventChange', 'ThirdPartyObservation',
                               'Unknown', 'Volunteer', 'Weather', 'GoodsServices']
 
-        data.dropna(inplace=True)  # drop missing values
+        data.dropna(inplace=True, subset=['categories', 'text'])  # drop missing values
         analysis['after dropping values'] = len(data)
 
         if visualize:
@@ -61,9 +59,9 @@ class DataAnalysis:
             row['categories'] = ast.literal_eval(row['categories'])
             for category in row['categories']:
                 if category in tweets_in_category:
-                    tweets_in_category[category].append(row['full_text'])
+                    tweets_in_category[category].append(row['text'])
                 else:
-                    tweets_in_category[category] = [row['full_text']]
+                    tweets_in_category[category] = [row['text']]
 
         self.visualize_word_cloud(tweets_in_category)
 
@@ -86,16 +84,21 @@ if __name__ == '__main__':
                     'nepalEarthquake2015', 'parisAttacks2015', 'philipinnesFloods2012', 'queenslandFloods2013',
                     'typhoonHagupit2014', 'typhoonYolanda2013']
 
+    da = DataAnalysis()
+    path = 'Data/TREC_recheck/trec_data.csv'
+    all_tweets = pd.read_csv(path, header=0,  engine='python')
+    da.perform_data_analysis(all_tweets, event='all_events', visualize=False)
+
     # extract Linguistic features
 
-    for event in events_names:
-        print(event)
-        event_tweets_path = events_path + event + '/' + event + '_all.csv'
-
-        try:
-            event_tweets_df = pd.read_csv(event_tweets_path)
-        except:
-            event_tweets_df = pd.read_csv(
-                open(event_tweets_path, 'rU'), encoding='utf-8', engine='c')
-        da = DataAnalysis()
-        da.perform_data_analysis(event_tweets_df, event)
+    # for event in events_names:
+    #     print(event)
+    #     event_tweets_path = events_path + event + '/' + event + '_all.csv'
+    #
+    #     try:
+    #         event_tweets_df = pd.read_csv(event_tweets_path)
+    #     except:
+    #         event_tweets_df = pd.read_csv(
+    #             open(event_tweets_path, 'rU'), encoding='utf-8', engine='c')
+    #     da = DataAnalysis()
+    #     da.perform_data_analysis(event_tweets_df, event)

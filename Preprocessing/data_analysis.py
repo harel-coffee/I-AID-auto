@@ -85,7 +85,7 @@ if __name__ == '__main__':
                     'typhoonHagupit2014', 'typhoonYolanda2013']
 
     da = DataAnalysis()
-    path = 'Data/TREC_recheck/trec_data.csv'
+    path = 'Data/trec_data.csv'
     all_tweets = pd.read_csv(path, header=0,  engine='python')
     da.perform_data_analysis(all_tweets, event='all_events', visualize=False)
 

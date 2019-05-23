@@ -4,6 +4,7 @@ import pprint
 
 import numpy as np
 import pandas as pd
+pd.options.display.float_format = '{:20,.2f}'.format
 from pandas.io.json import json_normalize
 
 events = ['albertaFloods2013', 'australiaBushfire2013', 'bostonBombings2013', 'chileEarthquake2014',
@@ -36,6 +37,7 @@ class Dataset_Verification:
                 for tweet in data: # for every tweet, fetch id and metadata
                     tdict = {}
                     k = tweet['allProperties']
+                    #tdict['id'] = str(k['id'])
                     tdict['user.verified'] = k['user.verified']
                     tdict['entities.urls'] = k['entities.urls']
                     tdict['entities.hashtags'] = k['entities.hashtags']
@@ -44,7 +46,6 @@ class Dataset_Verification:
                     tdict['user.location'] = k['user.location']
                     tdict['user.followers_count'] = k['user.followers_count']
                     tdict['created_at'] = k['created_at']
-                    # tdict['id'] = k['id']
                     tdict['topic'] = tweet['topic']
                     tdict['truncated'] = k['truncated']
                     tdict['user.url'] = k['user.url']
@@ -55,9 +56,11 @@ class Dataset_Verification:
                     else:
                         tdict['retweeted_status.entities.hashtags'] = None
                         tdict['retweeted_status.text'] = None
-                    tweet_dict[k['id']] = tdict
+                    tweet_dict[str(k['id'])] = tdict
 
                 tweet_df = pd.DataFrame.from_dict(tweet_dict, orient='index')
+                tweet_df.index.map(str)
+                print(tweet_df.dtypes)
                 tweet_df.to_csv('Data/TREC_recheck/tweets/'+ event +'.csv',index=True)
 
     def fetch_trec_labels(self, path = 'Data/TRECIS-2018-TestEvents-Labels'):
@@ -71,11 +74,15 @@ class Dataset_Verification:
                     tweet_labels = {}
                     for tweet in event['tweets']:
                         tdict ={}
-                        # tdict['postID'] = tweet['postID']
+                        #tdict['postID'] = str(tweet['postID'])
                         tdict['categories'] = tweet['categories']
                         tdict['priority'] = tweet['priority']
                         tweet_labels[tweet['postID']] = tdict
                     tweet_df = pd.DataFrame.from_dict(tweet_labels, orient='index')
+                    tweet_df.index = [str(x) for x in tweet_df.index]
+                    for ind, row in tweet_df.iterrows():
+                        print(ind, type(ind))
+
                     if event_name not in seen_files:
                         seen_files.add(event_name)
                         tweet_df.to_csv('Data/TREC_recheck/labels/' + event_name + '.csv', index=True)
@@ -90,24 +97,35 @@ class Dataset_Verification:
         frames = []
         for fpath in all_paths:
             try:
-                frames.append(pd.read_csv(fpath, header=0,  engine='python'))
+                df = pd.read_csv(fpath, header=0, dtype=object, engine='python', index_col=0)
+                df.index = [str(x) for x in df.index]
+                for ind, row in df.iterrows():
+                    print(ind, type(ind))
+                    if '.' in ind:
+                        print(fpath)
+                        break
+                frames.append(df)
             except:
                 continue
 
         # frames = [pd.read_csv(
         #     fpath, header=0,  engine='python') for fpath in all_paths]
 
-        combined_df = pd.concat(frames, axis=0, sort=False, ignore_index=True)
-        combined_df.to_csv(path + '/' + fname, index=False)
+        combined_df = pd.concat(frames, axis=0, sort=False, ignore_index=False)
+        combined_df.to_csv(path + '/' + fname, index=True)
 
         print(combined_df.isna().sum())
         print('combined length', len(combined_df))
 
     def combine_tweets_with_labels(self):
-        tweet_df = pd.read_csv('Data/TREC_recheck/tweets/all_tweets.csv', header=0,  engine='python')
-        label_df = pd.read_csv('Data/TREC_recheck/labels/all_labels.csv', header=0,  engine='python')
-        combined_df = pd.merge(tweet_df, label_df, right_index=True, left_index=True)
-        combined_df.to_csv('Data/TREC_recheck/trec_data.csv', index=False)
+        tweet_df = pd.read_csv('Data/TREC_recheck/tweets/all_tweets.csv', header=0,  engine='python', index_col=0)
+        tweet_df.index = [str(x) for x in tweet_df.index]
+        label_df = pd.read_csv('Data/TREC_recheck/labels/all_labels.csv', header=0,  engine='python', index_col=0)
+        label_df.index = [str(x) for x in label_df.index]
+        print(tweet_df.dtypes)
+        print(label_df.dtypes)
+        combined_df = pd.merge(label_df, tweet_df, left_index=True, right_index=True, how='inner')
+        combined_df.to_csv('Data/TREC_recheck/trec_data.csv', index=True)
         print(combined_df.isna().sum())
         print('combined length', len(combined_df))
 

@@ -6,6 +6,7 @@ from matplotlib import pyplot as plt
 from wordcloud import WordCloud,STOPWORDS
 from sklearn.preprocessing import MultiLabelBinarizer
 
+
 class DataAnalysis:
     def __init__(self):
         self.mlb = MultiLabelBinarizer()
@@ -24,7 +25,6 @@ class DataAnalysis:
                               'Unknown', 'Volunteer', 'Weather', 'GoodsServices']
 
         data.dropna(inplace=True, subset=['categories', 'text'])  # drop missing values
-        analysis['after dropping values'] = len(data)
 
         if visualize:
             self.viz_TweetsPerClass(all_categories, event, data)
@@ -84,6 +84,20 @@ if __name__ == '__main__':
                     'nepalEarthquake2015', 'parisAttacks2015', 'philipinnesFloods2012', 'queenslandFloods2013',
                     'typhoonHagupit2014', 'typhoonYolanda2013']
 
+    # extract Linguistic features
+
+    for event in events_names:
+        print(event)
+        event_tweets_path = events_path + event + '/' + event + '_all.csv'
+
+        try:
+            event_tweets_df = pd.read_csv(event_tweets_path)
+        except:
+            event_tweets_df = pd.read_csv(
+                open(event_tweets_path, 'rU'), encoding='utf-8', engine='c')
+        da = DataAnalysis()
+        da.perform_data_analysis(event_tweets_df, event)
+
     da = DataAnalysis()
     path = 'Data/trec_data.csv'
     all_tweets = pd.read_csv(path, header=0,  engine='python')
@@ -100,5 +114,3 @@ if __name__ == '__main__':
     #     except:
     #         event_tweets_df = pd.read_csv(
     #             open(event_tweets_path, 'rU'), encoding='utf-8', engine='c')
-    #     da = DataAnalysis()
-    #     da.perform_data_analysis(event_tweets_df, event)

@@ -1,0 +1,42 @@
+TREC-IS 2019-B Notebook Evaluator v2.3
+Run: Baseline-HAN (/content/Baseline_HAN.csv)
+
+--------------------------------------------------
+EVALUATON: Alertng Performance
+Overall performance
+--------------------------------------------------
+> High Importance Alert Worth:	-0.7815749235474008
+> Low Importance Alert Worth:	-0.1385188622539421
+> Accumulated Alert Worth:	-0.46004689290067147
+
+--------------------------------------------------
+EVALUATON: Information Type Categorization
+Overall performance
+--------------------------------------------------
+> Information Type Precision (positive class, multi-type, macro):	0.07661896865814662
+> Information Type Recall (positive class, multi-type, macro):	0.3198959934598289
+> Information Type F1 (positive class, multi-type, macro):	0.11829282455529459
+> Information Type Accuracy (overall, multi-type, macro):	0.7120008638375986
+> High Importance Information Type Precision (positive class, multi-type, macro):	0.0
+> High Importance Information Type Recall (positive class, multi-type, macro):	0.0
+> High Importance Information Type F1 (positive class, multi-type, macro):	0.0
+> High Importance Information Type Accuracy (overall, multi-type, macro):	0.9759025303242991
+> Low Importance Information Type Precision (positive class, multi-type, macro):	0.10081443244492977
+> Low Importance Information Type Recall (positive class, multi-type, macro):	0.4209157808681959
+> Low Importance Information Type F1 (positive class, multi-type, macro):	0.1556484533622297
+> Low Importance Information Type Accuracy (overall, multi-type, macro):	0.6286634954733773
+
+--------------------------------------------------
+EVALUATON: Information Priority Level
+Overall Performance
+--------------------------------------------------
+> Priority Estimation Error (mean squared error, macro): 0.13849526104318388
+> Priority Estimation Error High Importance (mean squared error, macro): 0.19245386804473708
+> Priority Estimation Error Low Importance (mean squared error, macro): 0.1214557009374303
+
+--------------------------------------------------
+LATEX
+--------------------------------------------------
+Run &
+AW-H & AW-A & CF1-H & CF1-A & CAcc & PErr-H & PErr-A \\
+Baseline-HAN & -0.7816 & -0.4600 & 0.0000 & 0.1513 & 0.7120 & 0.1925 & 0.1385 \\

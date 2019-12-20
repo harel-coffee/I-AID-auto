@@ -1,0 +1,42 @@
+TREC-IS 2019-B Notebook Evaluator v2.3
+Run: Baseline-textCNN (/content/Baseline_textCNN.csv)
+
+--------------------------------------------------
+EVALUATON: Alertng Performance
+Overall performance
+--------------------------------------------------
+> High Importance Alert Worth:	-0.976376146788991
+> Low Importance Alert Worth:	-0.00044431897511049286
+> Accumulated Alert Worth:	-0.48841023288205077
+
+--------------------------------------------------
+EVALUATON: Information Type Categorization
+Overall performance
+--------------------------------------------------
+> Information Type Precision (positive class, multi-type, macro):	0.11616007625044694
+> Information Type Recall (positive class, multi-type, macro):	0.3312971623373825
+> Information Type F1 (positive class, multi-type, macro):	0.1346592994091846
+> Information Type Accuracy (overall, multi-type, macro):	0.7106964690638159
+> High Importance Information Type Precision (positive class, multi-type, macro):	0.025664251207729468
+> High Importance Information Type Recall (positive class, multi-type, macro):	0.005166817632850242
+> High Importance Information Type F1 (positive class, multi-type, macro):	0.006745129613842316
+> High Importance Information Type Accuracy (overall, multi-type, macro):	0.9704315588669331
+> Low Importance Information Type Precision (positive class, multi-type, macro):	0.1447377052113051
+> Low Importance Information Type Recall (positive class, multi-type, macro):	0.434285692244077
+> Low Importance Information Type F1 (positive class, multi-type, macro):	0.17505324776560852
+> Low Importance Information Type Accuracy (overall, multi-type, macro):	0.6286748617575685
+
+--------------------------------------------------
+EVALUATON: Information Priority Level
+Overall Performance
+--------------------------------------------------
+> Priority Estimation Error (mean squared error, macro): 0.11064289624602744
+> Priority Estimation Error High Importance (mean squared error, macro): 0.20728182962374628
+> Priority Estimation Error Low Importance (mean squared error, macro): 0.08012533833727413
+
+--------------------------------------------------
+LATEX
+--------------------------------------------------
+Run &
+AW-H & AW-A & CF1-H & CF1-A & CAcc & PErr-H & PErr-A \\
+Baseline-textCNN & -0.9764 & -0.4884 & 0.0067 & 0.1508 & 0.7107 & 0.2073 & 0.1106 \\

@@ -1,0 +1,42 @@
+TREC-IS 2019-B Notebook Evaluator v2.3
+Run: baseline-BiLSTM (/content/Baseline-BiLSTM.csv)
+
+--------------------------------------------------
+EVALUATON: Alertng Performance
+Overall performance
+--------------------------------------------------
+> High Importance Alert Worth:	-0.8759938837920499
+> Low Importance Alert Worth:	-0.020354462963365003
+> Accumulated Alert Worth:	-0.44817417337770743
+
+--------------------------------------------------
+EVALUATON: Information Type Categorization
+Overall performance
+--------------------------------------------------
+> Information Type Precision (positive class, multi-type, macro):	0.1700026370013692
+> Information Type Recall (positive class, multi-type, macro):	0.37301697286288765
+> Information Type F1 (positive class, multi-type, macro):	0.20861020526827118
+> Information Type Accuracy (overall, multi-type, macro):	0.7602202785876255
+> High Importance Information Type Precision (positive class, multi-type, macro):	0.04891496256146694
+> High Importance Information Type Recall (positive class, multi-type, macro):	0.08577521135265702
+> High Importance Information Type F1 (positive class, multi-type, macro):	0.06219152421274071
+> High Importance Information Type Accuracy (overall, multi-type, macro):	0.9541266241946514
+> Low Importance Information Type Precision (positive class, multi-type, macro):	0.20824084998239092
+> Low Importance Information Type Recall (positive class, multi-type, macro):	0.46372489755032886
+> Low Importance Information Type F1 (positive class, multi-type, macro):	0.2548476834963335
+> Low Importance Information Type Accuracy (overall, multi-type, macro):	0.6989866957643542
+
+--------------------------------------------------
+EVALUATON: Information Priority Level
+Overall Performance
+--------------------------------------------------
+> Priority Estimation Error (mean squared error, macro): 0.06802271302438996
+> Priority Estimation Error High Importance (mean squared error, macro): 0.10484254314862451
+> Priority Estimation Error Low Importance (mean squared error, macro): 0.056395398248315874
+
+--------------------------------------------------
+LATEX
+--------------------------------------------------
+Run &
+AW-H & AW-A & CF1-H & CF1-A & CAcc & PErr-H & PErr-A \\
+baseline-BiLSTM & -0.8760 & -0.4482 & 0.0622 & 0.1738 & 0.7602 & 0.1048 & 0.0680 \\

@@ -1,0 +1,40 @@
+TREC-IS 2019-B Notebook Evaluator v2.3
+Run: Baseline-fastText (/content/Baseline-fastText.csv)
+
+--------------------------------------------------
+EVALUATON: Alertng Performance
+Overall performance
+--------------------------------------------------
+> High Importance Alert Worth:	-0.7974770642201874
+> Low Importance Alert Worth:	-0.045865979313290776
+> Accumulated Alert Worth:	-0.42167152176673905
+
+--------------------------------------------------
+EVALUATON: Information Type Categorization
+Overall performance
+--------------------------------------------------
+> Information Type Precision (positive class, multi-type, macro):	0.15509999490800438
+> Information Type Recall (positive class, multi-type, macro):	0.19993431881286625
+> Information Type F1 (positive class, multi-type, macro):	0.13810414292331052
+> Information Type Accuracy (overall, multi-type, macro):	0.8182960803368967
+> High Importance Information Type Precision (positive class, multi-type, macro):	0.052845528455284556
+> High Importance Information Type Recall (positive class, multi-type, macro):	0.0062801932367149765
+> High Importance Information Type F1 (positive class, multi-type, macro):	0.011226252158894645
+> High Importance Information Type Accuracy (overall, multi-type, macro):	0.9756145844581218
+> Low Importance Information Type Precision (positive class, multi-type, macro):	0.18739087905096855
+> Low Importance Information Type Recall (positive class, multi-type, macro):	0.2610882532053351
+> Low Importance Information Type F1 (positive class, multi-type, macro):	0.17817084526996818
+> Low Importance Information Type Accuracy (overall, multi-type, macro):	0.7686165527196676
+
+--------------------------------------------------
+EVALUATON: Information Priority Level
+Overall Performance
+--------------------------------------------------
+> Priority Estimation Error (mean squared error, macro): 0.08451434554377228
+> Priority Estimation Error High Importance (mean squared error, macro): 0.10811143072442458
+> Priority Estimation Error Low Importance (mean squared error, macro): 0.07706263443409263
+
+--------------------------------------------------
+LATEX
+--------------------------------------------------
+Baseline-fastText & -0.7975 & -0.4217 & 0.0112 & 0.0000 & 0.8183 & 0.1081 & 0.0845 \\

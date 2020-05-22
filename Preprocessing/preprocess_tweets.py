@@ -1,10 +1,23 @@
 import emoji
-import string, nltk, re
+import string, re, csv
 from spacy.lang.en import English
 
 class TweetPrepocesser(object):
     def __init__(self):
         self.nlp = English()
+
+    def correct_spellings(self, text):
+        eng_dict = {}
+        with open('OOV_Dict/OOV_Dict/OOV_Dictionary_V1.0.tsv', 'r', encoding='latin-1') as f:
+            reader = csv.reader(f, delimiter='\t')
+            for r in reader:
+                eng_dict[r[0]] = r[1]
+            # print('dict!! ',eng_dict)
+
+            for wd in text.split():
+                if wd in eng_dict:
+                    text = text.replace(wd, eng_dict[wd])
+        return text
 
     def remove_special_symbols(self, text):
         '''
@@ -14,6 +27,8 @@ class TweetPrepocesser(object):
         '''
         special_symbols = re.compile(r"[\u0600-\u06FF\u0B80-\u0BFF\u25A0-\u25FF\u2700-\u27BF]+", re.UNICODE)
         text = special_symbols.sub('', text)
+        other_symbols = re.compile(r'([#&@.]+)')
+        text = other_symbols.sub('', text)
         return text
 
     def extract_emojis_from_text(self, text):
@@ -66,22 +81,38 @@ class TweetPrepocesser(object):
         :param retweeted_text:
         :return:
         '''
-        text = text.strip()  # remove whitespaces
-        print(f'before process: {text}')
-        text = " ".join([ll.rstrip() for ll in text.splitlines() if ll.strip()])
-        print(f'lines reduced: {text}')
+        # text = text.strip()  # remove whitespaces
+        # print(f'before process: {text}')
+        # text = " ".join([ll.rstrip() for ll in text.splitlines() if ll.strip()])
+        # print(f'lines reduced: {text}')
+        # text = text.lower()
+        # #re.sub('rt', '', text)
+        # text = re.sub(' +', ' ', text)  # remove extra whitespace
+        # text = re.sub('@[^\s]+', '.', text) #remove username
+        # text = re.sub(r"http\S+", "", text) # remove url
+        # text = self.lemmatize_text(text)
+        # text = self.emoji_to_text(text)
+        # text = self.remove_special_symbols(text)
+        # text = self.remove_stopwords_and_punctuations(text)
+        # text = self.correct_spellings(text)
+        # text = self.remove_numbers(text)
+        # text = re.sub(' +', ' ', text)  # remove extra whitespace
+        # print(text)
         text = text.lower()
-        #re.sub('rt', '', text)
+        # text=re.sub('rt','', text)
         text = re.sub(' +', ' ', text)  # remove extra whitespace
-        text = re.sub('@[^\s]+', '.', text) #remove username
-        text = re.sub(r"http\S+", "", text) # remove url
-        text = self.lemmatize_text(text)
-        text = self.emoji_to_text(text)
+        text = re.sub('@[^\s]+', '.', text)  # remove username
+        # text=re.sub('[^A-Za-z0-9]+', ' ', text)
+        text = re.sub(r"http\S+", "", text)  # remove url
         text = self.remove_special_symbols(text)
-        text = self.remove_stopwords_and_punctuations(text)
-        text = re.sub(' +', ' ', text)  # remove extra whitespace
+        text = self.correct_spellings(text)
+        text = self.emoji_to_text(text)
+        text = re.sub('\n', ' ', text)
+        text = re.sub(' +', ' ', text)  # replace more than one space with one space
+        text = text.strip()  # remove whitespaces
         print(f'processed: {text}')
         return text
 
 if __name__ == '__main__':
     tp = TweetPrepocesser()
+   # tp.correct_spellings('2dae is ghost')

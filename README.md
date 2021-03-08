@@ -1,2 +1,3 @@
-# TREC-IS19
-This repository contains the project code for TREC-IS challenge 2019.
+# I-AID: Identifying Actionable Information from Disaster-related Tweets
+This repository contains the implementation of I-AID approach and baseline methods discussed in the paper "I-AID: Identifying Actionable Information from Disaster-related Tweets" 
+
